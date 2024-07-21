@@ -1,0 +1,18 @@
+{
+    "products": [
+        {
+            "asin": "B000XRW2YC",
+            "title": "Zwilling 38185-060 - Pelador con hoja endurecida al frío Friodur, acero inoxidable",
+            "image": "https://m.media-amazon.com/images/I/510+iIj1aCL._AC_SL1500_.jpg",
+            "url": "https://www.amazon.es/gp/product/B000XRW2YC/",
+            "reviews": 13
+        },
+        {
+            "asin": "B01D4NCVNS",
+            "title": "Aoneky Sombrero de Paraguas Manos Libres - Paraguas para Cabeza Sin Manos, 90cm de Diámetro, Paraguas Grande para Senderismo Camping Pesca Jardinería",
+            "image": "https://m.media-amazon.com/images/I/51QH99ZZ3nL._AC_SL1002_.jpg",
+            "url": "https://www.amazon.es/gp/product/B01D4NCVNS/",
+            "reviews": 13
+        }
+    ]
+}
