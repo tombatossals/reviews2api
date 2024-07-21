@@ -1,0 +1,366 @@
+[
+    {
+        "Name":"alba",
+        "Stars":"5,0",
+        "Title":"Muy bien",
+        "Date":"13-07-2024",
+        "Description":"Sencillo y el que funciona mejor !"
+    },
+    {
+        "Name":"Juan",
+        "Stars":"5,0",
+        "Title":"Pela patatas y verduras muy cómodo",
+        "Date":"15-02-2024",
+        "Description":"Para pelar verduras y patatas. Es acero alemán (Zwilling) de buena calidad. El mango es algo pequeño, en mi opinión."
+    },
+    {
+        "Name":"Mayte",
+        "Stars":"4,0",
+        "Title":"Muy útil",
+        "Date":"18-05-2023",
+        "Description":"Me ha gustado mucho, es súper cómodo"
+    },
+    {
+        "Name":"Hector Sobanski",
+        "Stars":"5,0",
+        "Title":"AFILADO",
+        "Date":"17-02-2024",
+        "Description":"Liviano muy afilado tiene la abertura de la hoja y tope espaciosa por lo que el filo no se embota, pero corta una lonja de piel gruesa."
+    },
+    {
+        "Name":"Diana Becerra Román",
+        "Stars":"5,0",
+        "Title":"Pela muy bien",
+        "Date":"19-07-2024",
+        "Description":"Llevaba tiempo buscando un pelador en condiciones y he comprado varios que al final no uso. Este es muy bueno y manejable."
+    },
+    {
+        "Name":"BR09",
+        "Stars":"3,0",
+        "Title":"Muy caro para lo mal que va",
+        "Date":"14-04-2021",
+        "Description":"No corta bien, se ha de hacer mucha fuerza, tenía uno que me costó mucho menos y que iba muchísimo mejor, lastima que lo perdí."
+    },
+    {
+        "Name":"Neus",
+        "Stars":"1,0",
+        "Title":"Nefasto",
+        "Date":"14-06-2024",
+        "Description":"El peor pelapatatas que he comprado.Es un engaño. Me fíe de la marca y me ha defraudado."
+    },
+    {
+        "Name":"David del Gallego Marrero",
+        "Stars":"5,0",
+        "Title":"Relación calidad-precio",
+        "Date":"02-10-2022",
+        "Description":"Lo compré por la marca, tengo más chuchillos de y no me han decepcionado nunca. Es un pelador muy sencillo de aspecto pero eso lo hace muy fácil de limpiar y cómodo de utilizar.Este tipo de cubierto es más complicado de afilar que un cuchillo normal pero se puede realizar en una piedra de afilado de toda la vida.Contento con la compra y lo recomendaría sin dudar."
+    },
+    {
+        "Name":"Mari",
+        "Stars":"3,0",
+        "Title":"Ok but small",
+        "Date":"15-04-2024",
+        "Description":"Ok product but it is smaller then I expected so you can't apply much strength on it"
+    },
+    {
+        "Name":"Judit",
+        "Stars":"5,0",
+        "Title":"Gemüseschäler nach dem ich lange gesucht habe",
+        "Date":"25-02-2024",
+        "Description":"Dieser Küchenschäler überzeugt auf ganzer Linie! Der Griff ist angenehm groß gestaltet und ermöglicht eine komfortable Handhabung. Besonders positiv ist, dass der Schäler nicht pendelt, sondern eine stabile Führung gewährleistet.Die Klinge des Schälers ist äußerst scharf, wodurch das Schälen von Obst und Gemüse zu einer einfachen und effizienten Aufgabe wird. Egal ob Kartoffeln, Äpfel oder Karotten – dieser Schäler erfüllt alle Erwartungen und ermöglicht ein reibungsloses Schälen.Alles in allem ein hochwertiges Küchenutensil!"
+    },
+    {
+        "Name":"Jake T",
+        "Stars":"5,0",
+        "Title":"As you would expect",
+        "Date":"13-01-2024",
+        "Description":"If you have the good fortune to own a Zwilling kitchen knife of some description, the peeler is what you would expect from them. It is sharp, comfy to handle and beautifully balanced. If it lasts as long as their knives I won’t need a replacement any time soon."
+    },
+    {
+        "Name":"Paolo",
+        "Stars":"5,0",
+        "Title":"Uno dei miglior pelaverdure\/sbuccia patate",
+        "Date":"18-07-2023",
+        "Description":"C'è poco da dire per un pela verdure\/sbuccia patate da cucina.Zwilling ovviamente è sempre una garanzia.Comodo, pratico ed ergonomico io mi trovo veramente molto bene per pelare le verdure.Lo utilizzo sia per carote che per patate che per sfibrare sedano e cose piu morbide.Taglia molto bene e lo trovo sicuro rispetto ad altri pela verdure strutturati diversamente che sono forse piu \"pericolosi\" per il rischio che possano scivolare e tagliarsi.Si lava facilmente, oltre a un buon getto d'acqua corrente sotto sui lavarlo bisogna far attenzione a rimuovere tutti i residui di cibo rimasti incastrati tra le lame.Viene venduto con una piccola protezione per la lama che io riutilizzo correttamente quando lo ripongo nel cassetto.Consigliato, non so la differenza di prezzo rispetto a prenderlo alla bancarella sotto casa o in altri negozi di casalinghi ma lo trovo una garanzia."
+    },
+    {
+        "Name":"Ben",
+        "Stars":"5,0",
+        "Title":"The original one",
+        "Date":"27-10-2022",
+        "Description":"Scharp and neatly packaged."
+    },
+    {
+        "Name":"alba",
+        "Stars":"5,0",
+        "Title":"Muy bien",
+        "Date":"13-07-2024",
+        "Description":"Sencillo y el que funciona mejor !"
+    },
+    {
+        "Name":"Juan",
+        "Stars":"5,0",
+        "Title":"Pela patatas y verduras muy cómodo",
+        "Date":"15-02-2024",
+        "Description":"Para pelar verduras y patatas. Es acero alemán (Zwilling) de buena calidad. El mango es algo pequeño, en mi opinión."
+    },
+    {
+        "Name":"Mayte",
+        "Stars":"4,0",
+        "Title":"Muy útil",
+        "Date":"18-05-2023",
+        "Description":"Me ha gustado mucho, es súper cómodo"
+    },
+    {
+        "Name":"Hector Sobanski",
+        "Stars":"5,0",
+        "Title":"AFILADO",
+        "Date":"17-02-2024",
+        "Description":"Liviano muy afilado tiene la abertura de la hoja y tope espaciosa por lo que el filo no se embota, pero corta una lonja de piel gruesa."
+    },
+    {
+        "Name":"Diana Becerra Román",
+        "Stars":"5,0",
+        "Title":"Pela muy bien",
+        "Date":"19-07-2024",
+        "Description":"Llevaba tiempo buscando un pelador en condiciones y he comprado varios que al final no uso. Este es muy bueno y manejable."
+    },
+    {
+        "Name":"BR09",
+        "Stars":"3,0",
+        "Title":"Muy caro para lo mal que va",
+        "Date":"14-04-2021",
+        "Description":"No corta bien, se ha de hacer mucha fuerza, tenía uno que me costó mucho menos y que iba muchísimo mejor, lastima que lo perdí."
+    },
+    {
+        "Name":"Neus",
+        "Stars":"1,0",
+        "Title":"Nefasto",
+        "Date":"14-06-2024",
+        "Description":"El peor pelapatatas que he comprado.Es un engaño. Me fíe de la marca y me ha defraudado."
+    },
+    {
+        "Name":"David del Gallego Marrero",
+        "Stars":"5,0",
+        "Title":"Relación calidad-precio",
+        "Date":"02-10-2022",
+        "Description":"Lo compré por la marca, tengo más chuchillos de y no me han decepcionado nunca. Es un pelador muy sencillo de aspecto pero eso lo hace muy fácil de limpiar y cómodo de utilizar.Este tipo de cubierto es más complicado de afilar que un cuchillo normal pero se puede realizar en una piedra de afilado de toda la vida.Contento con la compra y lo recomendaría sin dudar."
+    },
+    {
+        "Name":"Mari",
+        "Stars":"3,0",
+        "Title":"Ok but small",
+        "Date":"15-04-2024",
+        "Description":"Ok product but it is smaller then I expected so you can't apply much strength on it"
+    },
+    {
+        "Name":"Judit",
+        "Stars":"5,0",
+        "Title":"Gemüseschäler nach dem ich lange gesucht habe",
+        "Date":"25-02-2024",
+        "Description":"Dieser Küchenschäler überzeugt auf ganzer Linie! Der Griff ist angenehm groß gestaltet und ermöglicht eine komfortable Handhabung. Besonders positiv ist, dass der Schäler nicht pendelt, sondern eine stabile Führung gewährleistet.Die Klinge des Schälers ist äußerst scharf, wodurch das Schälen von Obst und Gemüse zu einer einfachen und effizienten Aufgabe wird. Egal ob Kartoffeln, Äpfel oder Karotten – dieser Schäler erfüllt alle Erwartungen und ermöglicht ein reibungsloses Schälen.Alles in allem ein hochwertiges Küchenutensil!"
+    },
+    {
+        "Name":"Jake T",
+        "Stars":"5,0",
+        "Title":"As you would expect",
+        "Date":"13-01-2024",
+        "Description":"If you have the good fortune to own a Zwilling kitchen knife of some description, the peeler is what you would expect from them. It is sharp, comfy to handle and beautifully balanced. If it lasts as long as their knives I won’t need a replacement any time soon."
+    },
+    {
+        "Name":"Paolo",
+        "Stars":"5,0",
+        "Title":"Uno dei miglior pelaverdure\/sbuccia patate",
+        "Date":"18-07-2023",
+        "Description":"C'è poco da dire per un pela verdure\/sbuccia patate da cucina.Zwilling ovviamente è sempre una garanzia.Comodo, pratico ed ergonomico io mi trovo veramente molto bene per pelare le verdure.Lo utilizzo sia per carote che per patate che per sfibrare sedano e cose piu morbide.Taglia molto bene e lo trovo sicuro rispetto ad altri pela verdure strutturati diversamente che sono forse piu \"pericolosi\" per il rischio che possano scivolare e tagliarsi.Si lava facilmente, oltre a un buon getto d'acqua corrente sotto sui lavarlo bisogna far attenzione a rimuovere tutti i residui di cibo rimasti incastrati tra le lame.Viene venduto con una piccola protezione per la lama che io riutilizzo correttamente quando lo ripongo nel cassetto.Consigliato, non so la differenza di prezzo rispetto a prenderlo alla bancarella sotto casa o in altri negozi di casalinghi ma lo trovo una garanzia."
+    },
+    {
+        "Name":"Ben",
+        "Stars":"5,0",
+        "Title":"The original one",
+        "Date":"27-10-2022",
+        "Description":"Scharp and neatly packaged."
+    },
+    {
+        "Name":"alba",
+        "Stars":"5,0",
+        "Title":"Muy bien",
+        "Date":"13-07-2024",
+        "Description":"Sencillo y el que funciona mejor !"
+    },
+    {
+        "Name":"Juan",
+        "Stars":"5,0",
+        "Title":"Pela patatas y verduras muy cómodo",
+        "Date":"15-02-2024",
+        "Description":"Para pelar verduras y patatas. Es acero alemán (Zwilling) de buena calidad. El mango es algo pequeño, en mi opinión."
+    },
+    {
+        "Name":"Mayte",
+        "Stars":"4,0",
+        "Title":"Muy útil",
+        "Date":"18-05-2023",
+        "Description":"Me ha gustado mucho, es súper cómodo"
+    },
+    {
+        "Name":"Hector Sobanski",
+        "Stars":"5,0",
+        "Title":"AFILADO",
+        "Date":"17-02-2024",
+        "Description":"Liviano muy afilado tiene la abertura de la hoja y tope espaciosa por lo que el filo no se embota, pero corta una lonja de piel gruesa."
+    },
+    {
+        "Name":"Diana Becerra Román",
+        "Stars":"5,0",
+        "Title":"Pela muy bien",
+        "Date":"19-07-2024",
+        "Description":"Llevaba tiempo buscando un pelador en condiciones y he comprado varios que al final no uso. Este es muy bueno y manejable."
+    },
+    {
+        "Name":"BR09",
+        "Stars":"3,0",
+        "Title":"Muy caro para lo mal que va",
+        "Date":"14-04-2021",
+        "Description":"No corta bien, se ha de hacer mucha fuerza, tenía uno que me costó mucho menos y que iba muchísimo mejor, lastima que lo perdí."
+    },
+    {
+        "Name":"Neus",
+        "Stars":"1,0",
+        "Title":"Nefasto",
+        "Date":"14-06-2024",
+        "Description":"El peor pelapatatas que he comprado.Es un engaño. Me fíe de la marca y me ha defraudado."
+    },
+    {
+        "Name":"David del Gallego Marrero",
+        "Stars":"5,0",
+        "Title":"Relación calidad-precio",
+        "Date":"02-10-2022",
+        "Description":"Lo compré por la marca, tengo más chuchillos de y no me han decepcionado nunca. Es un pelador muy sencillo de aspecto pero eso lo hace muy fácil de limpiar y cómodo de utilizar.Este tipo de cubierto es más complicado de afilar que un cuchillo normal pero se puede realizar en una piedra de afilado de toda la vida.Contento con la compra y lo recomendaría sin dudar."
+    },
+    {
+        "Name":"Mari",
+        "Stars":"3,0",
+        "Title":"Ok but small",
+        "Date":"15-04-2024",
+        "Description":"Ok product but it is smaller then I expected so you can't apply much strength on it"
+    },
+    {
+        "Name":"Judit",
+        "Stars":"5,0",
+        "Title":"Gemüseschäler nach dem ich lange gesucht habe",
+        "Date":"25-02-2024",
+        "Description":"Dieser Küchenschäler überzeugt auf ganzer Linie! Der Griff ist angenehm groß gestaltet und ermöglicht eine komfortable Handhabung. Besonders positiv ist, dass der Schäler nicht pendelt, sondern eine stabile Führung gewährleistet.Die Klinge des Schälers ist äußerst scharf, wodurch das Schälen von Obst und Gemüse zu einer einfachen und effizienten Aufgabe wird. Egal ob Kartoffeln, Äpfel oder Karotten – dieser Schäler erfüllt alle Erwartungen und ermöglicht ein reibungsloses Schälen.Alles in allem ein hochwertiges Küchenutensil!"
+    },
+    {
+        "Name":"Jake T",
+        "Stars":"5,0",
+        "Title":"As you would expect",
+        "Date":"13-01-2024",
+        "Description":"If you have the good fortune to own a Zwilling kitchen knife of some description, the peeler is what you would expect from them. It is sharp, comfy to handle and beautifully balanced. If it lasts as long as their knives I won’t need a replacement any time soon."
+    },
+    {
+        "Name":"Paolo",
+        "Stars":"5,0",
+        "Title":"Uno dei miglior pelaverdure\/sbuccia patate",
+        "Date":"18-07-2023",
+        "Description":"C'è poco da dire per un pela verdure\/sbuccia patate da cucina.Zwilling ovviamente è sempre una garanzia.Comodo, pratico ed ergonomico io mi trovo veramente molto bene per pelare le verdure.Lo utilizzo sia per carote che per patate che per sfibrare sedano e cose piu morbide.Taglia molto bene e lo trovo sicuro rispetto ad altri pela verdure strutturati diversamente che sono forse piu \"pericolosi\" per il rischio che possano scivolare e tagliarsi.Si lava facilmente, oltre a un buon getto d'acqua corrente sotto sui lavarlo bisogna far attenzione a rimuovere tutti i residui di cibo rimasti incastrati tra le lame.Viene venduto con una piccola protezione per la lama che io riutilizzo correttamente quando lo ripongo nel cassetto.Consigliato, non so la differenza di prezzo rispetto a prenderlo alla bancarella sotto casa o in altri negozi di casalinghi ma lo trovo una garanzia."
+    },
+    {
+        "Name":"Ben",
+        "Stars":"5,0",
+        "Title":"The original one",
+        "Date":"27-10-2022",
+        "Description":"Scharp and neatly packaged."
+    },
+    {
+        "Name":"alba",
+        "Stars":"5,0",
+        "Title":"Muy bien",
+        "Date":"13-07-2024",
+        "Description":"Sencillo y el que funciona mejor !"
+    },
+    {
+        "Name":"Juan",
+        "Stars":"5,0",
+        "Title":"Pela patatas y verduras muy cómodo",
+        "Date":"15-02-2024",
+        "Description":"Para pelar verduras y patatas. Es acero alemán (Zwilling) de buena calidad. El mango es algo pequeño, en mi opinión."
+    },
+    {
+        "Name":"Mayte",
+        "Stars":"4,0",
+        "Title":"Muy útil",
+        "Date":"18-05-2023",
+        "Description":"Me ha gustado mucho, es súper cómodo"
+    },
+    {
+        "Name":"Hector Sobanski",
+        "Stars":"5,0",
+        "Title":"AFILADO",
+        "Date":"17-02-2024",
+        "Description":"Liviano muy afilado tiene la abertura de la hoja y tope espaciosa por lo que el filo no se embota, pero corta una lonja de piel gruesa."
+    },
+    {
+        "Name":"Diana Becerra Román",
+        "Stars":"5,0",
+        "Title":"Pela muy bien",
+        "Date":"19-07-2024",
+        "Description":"Llevaba tiempo buscando un pelador en condiciones y he comprado varios que al final no uso. Este es muy bueno y manejable."
+    },
+    {
+        "Name":"BR09",
+        "Stars":"3,0",
+        "Title":"Muy caro para lo mal que va",
+        "Date":"14-04-2021",
+        "Description":"No corta bien, se ha de hacer mucha fuerza, tenía uno que me costó mucho menos y que iba muchísimo mejor, lastima que lo perdí."
+    },
+    {
+        "Name":"Neus",
+        "Stars":"1,0",
+        "Title":"Nefasto",
+        "Date":"14-06-2024",
+        "Description":"El peor pelapatatas que he comprado.Es un engaño. Me fíe de la marca y me ha defraudado."
+    },
+    {
+        "Name":"David del Gallego Marrero",
+        "Stars":"5,0",
+        "Title":"Relación calidad-precio",
+        "Date":"02-10-2022",
+        "Description":"Lo compré por la marca, tengo más chuchillos de y no me han decepcionado nunca. Es un pelador muy sencillo de aspecto pero eso lo hace muy fácil de limpiar y cómodo de utilizar.Este tipo de cubierto es más complicado de afilar que un cuchillo normal pero se puede realizar en una piedra de afilado de toda la vida.Contento con la compra y lo recomendaría sin dudar."
+    },
+    {
+        "Name":"Mari",
+        "Stars":"3,0",
+        "Title":"Ok but small",
+        "Date":"15-04-2024",
+        "Description":"Ok product but it is smaller then I expected so you can't apply much strength on it"
+    },
+    {
+        "Name":"Judit",
+        "Stars":"5,0",
+        "Title":"Gemüseschäler nach dem ich lange gesucht habe",
+        "Date":"25-02-2024",
+        "Description":"Dieser Küchenschäler überzeugt auf ganzer Linie! Der Griff ist angenehm groß gestaltet und ermöglicht eine komfortable Handhabung. Besonders positiv ist, dass der Schäler nicht pendelt, sondern eine stabile Führung gewährleistet.Die Klinge des Schälers ist äußerst scharf, wodurch das Schälen von Obst und Gemüse zu einer einfachen und effizienten Aufgabe wird. Egal ob Kartoffeln, Äpfel oder Karotten – dieser Schäler erfüllt alle Erwartungen und ermöglicht ein reibungsloses Schälen.Alles in allem ein hochwertiges Küchenutensil!"
+    },
+    {
+        "Name":"Jake T",
+        "Stars":"5,0",
+        "Title":"As you would expect",
+        "Date":"13-01-2024",
+        "Description":"If you have the good fortune to own a Zwilling kitchen knife of some description, the peeler is what you would expect from them. It is sharp, comfy to handle and beautifully balanced. If it lasts as long as their knives I won’t need a replacement any time soon."
+    },
+    {
+        "Name":"Paolo",
+        "Stars":"5,0",
+        "Title":"Uno dei miglior pelaverdure\/sbuccia patate",
+        "Date":"18-07-2023",
+        "Description":"C'è poco da dire per un pela verdure\/sbuccia patate da cucina.Zwilling ovviamente è sempre una garanzia.Comodo, pratico ed ergonomico io mi trovo veramente molto bene per pelare le verdure.Lo utilizzo sia per carote che per patate che per sfibrare sedano e cose piu morbide.Taglia molto bene e lo trovo sicuro rispetto ad altri pela verdure strutturati diversamente che sono forse piu \"pericolosi\" per il rischio che possano scivolare e tagliarsi.Si lava facilmente, oltre a un buon getto d'acqua corrente sotto sui lavarlo bisogna far attenzione a rimuovere tutti i residui di cibo rimasti incastrati tra le lame.Viene venduto con una piccola protezione per la lama che io riutilizzo correttamente quando lo ripongo nel cassetto.Consigliato, non so la differenza di prezzo rispetto a prenderlo alla bancarella sotto casa o in altri negozi di casalinghi ma lo trovo una garanzia."
+    },
+    {
+        "Name":"Ben",
+        "Stars":"5,0",
+        "Title":"The original one",
+        "Date":"27-10-2022",
+        "Description":"Scharp and neatly packaged."
+    }
+]

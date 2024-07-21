@@ -7,6 +7,7 @@ import argparse
 import sys
 import os.path
 import locale
+import re
 
 locale.setlocale(locale.LC_TIME, "es_ES.UTF-8")
 
@@ -41,6 +42,10 @@ codigo_asin = args.asin
 
 # URL of The amazon Review page
 reviews_url = f"https://www.amazon.es/gp/product/{codigo_asin}/"
+
+
+def strip_extra_spaces(text):
+    return re.sub(r"\s{2,}", " ", text).strip()
 
 
 # Extra Data as Html object from amazon Review page
@@ -88,23 +93,32 @@ def getReviews(html_data):
         # If Value is empty define value with 'N/A' for all.
         try:
             name = box.select_one('[class="a-profile-name"]').text.strip()
+            name = strip_extra_spaces(name)
         except Exception as e:
-            name = "N/A"
+            name = ""
 
         try:
             stars = (
                 box.select_one('[data-hook="review-star-rating"]')
                 .text.strip()
-                .split(" out")[0]
+                .split(" ")[0]
             )
         except Exception as e:
-            stars = "N/A"
+            try:
+                stars = (
+                    box.select_one('[data-hook="cmps-review-star-rating"]')
+                    .text.strip()
+                    .split(" ")[0]
+                )
+            except Exception as e:
+                stars = ""
 
         try:
             title = box.select_one('[data-hook="review-title"]').text.strip()
             title = title.split("\n")[-1]
+            title = strip_extra_spaces(title)
         except Exception as e:
-            title = "N/A"
+            title = ""
 
         try:
             # Convert date str to dd/mm/yyy format
@@ -114,10 +128,10 @@ def getReviews(html_data):
                 .split(" el ")[-1]
             )
             date = datetime.strptime(datetime_str, "%d de %B de %Y").strftime(
-                "%d/%m/%Y"
+                "%d-%m-%Y"
             )
         except Exception as e:
-            date = "N/A"
+            date = ""
 
         try:
             description = (
@@ -125,8 +139,10 @@ def getReviews(html_data):
                 .text.replace("Leer más", "")
                 .strip()
             )
+            description = strip_extra_spaces(description)
+
         except Exception as e:
-            description = "N/A"
+            description = ""
 
         # create Dictionary with al review data
         data_dict = {
@@ -165,3 +181,9 @@ df_reviews = pd.DataFrame(reviews)
 
 # Save data
 df_reviews.to_csv(f"{folder}/../csv/{codigo_asin}.csv", index=False)
+df_reviews.to_json(
+    f"{folder}/../json/{codigo_asin}.json",
+    orient="records",
+    force_ascii=False,
+    indent=4,
+)
