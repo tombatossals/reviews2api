@@ -43,32 +43,63 @@ const get_reviews = async (page: any) => {
   await page.goto(url);
   await page.waitForSelector("div[data-hook='review']");
 
-  const meses = {
-    enero: 1, febrero: 2, marzo: 3, abril: 4,
-    mayo: 5, junio: 6, julio: 7, agosto: 8,
-    septiembre: 9, octubre: 10, noviembre: 11, diciembre: 12
-  };
-
   const reviews = page.evaluate(() => {
     const els = Array.from(document.querySelectorAll("div[data-hook='review']"));
     return els.map((el) => {
       const title = el.querySelector("[data-hook='review-title']").textContent.trim();
       const stars = parseFloat(el.querySelector("[data-hook='cmps-review-star-rating']").textContent.split(" ")[0].trim());
       const name = el.querySelector(".a-profile-name").textContent.trim();
-      const date = el.querySelector("[data-hook='review-date']").textContent.trim();
+      const datestr = el.querySelector("[data-hook='review-date']").textContent.trim();
       const review = el.querySelector("[data-hook='review-body']").textContent.trim();
 
       return {
         title,
         stars,
         name,
-        date,
+        datestr,
         review
       };
     });
   });
   return reviews;
 }
+
+const get_date = (str => {
+  const meses = {
+    enero: 1, febrero: 2, marzo: 3, abril: 4,
+    mayo: 5, junio: 6, julio: 7, agosto: 8,
+    septiembre: 9, octubre: 10, noviembre: 11, diciembre: 12
+  };
+
+  console.log(str);
+  const regex = /(\d{1,2}) de (\w+) de (\d{4})/;
+  const match = str.match(regex);
+  console.log(match)
+  const dia = match[1];
+  const mes = match[2];
+  const ano = match[3];
+
+  const mesNumero = meses[mes];
+  const fecha = dayjs(`${ano}-${mesNumero}-${dia}`, 'YYYY-M-D');
+
+  const fechaISO = fecha.toISOString();
+
+  return fechaISO;
+})
+
+const get_country = (str) => {
+  const regex = /en ([\w\s]+) el/;
+  const match = str.match(regex);
+  return match[1];
+}
+
+const format_reviews = (reviews) => reviews.map(({ title, name, datestr, stars }) => ({
+  title,
+  name,
+  date: get_date(datestr),
+  country: get_country(datestr),
+  stars
+}));
 
 const collect = async (asin: string = "B07T8FF784") => {
   const page = await get_page();
@@ -78,8 +109,11 @@ const collect = async (asin: string = "B07T8FF784") => {
 
   const title = await get_title(page);
   const image = await get_image(page);
-  const reviews = await get_reviews(page);
+  const reviews1 = await get_reviews(page);
+
+  const reviews = format_reviews(reviews1);
   console.log(reviews);
+
 
   fs.writeFileSync(`../json/${asin}.json`, JSON.stringify({ title, image, asin, reviews }, null, 2));
 
