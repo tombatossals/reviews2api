@@ -5,6 +5,12 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 import argparse
 import sys
+import os.path
+import locale
+
+locale.setlocale(locale.LC_TIME, "es_ES.UTF-8")
+
+folder = os.path.dirname(os.path.abspath(__file__))
 
 # Header to set the requests as a browser requests
 headers = {
@@ -96,6 +102,7 @@ def getReviews(html_data):
 
         try:
             title = box.select_one('[data-hook="review-title"]').text.strip()
+            title = title.split("\n")[-1]
         except Exception as e:
             title = "N/A"
 
@@ -104,14 +111,20 @@ def getReviews(html_data):
             datetime_str = (
                 box.select_one('[data-hook="review-date"]')
                 .text.strip()
-                .split(" on ")[-1]
+                .split(" el ")[-1]
             )
-            date = datetime.strptime(datetime_str, "%B %d, %Y").strftime("%d/%m/%Y")
+            date = datetime.strptime(datetime_str, "%d de %B de %Y").strftime(
+                "%d/%m/%Y"
+            )
         except Exception as e:
             date = "N/A"
 
         try:
-            description = box.select_one('[data-hook="review-body"]').text.strip()
+            description = (
+                box.select_one('[data-hook="review-body"]')
+                .text.replace("Leer más", "")
+                .strip()
+            )
         except Exception as e:
             description = "N/A"
 
@@ -150,7 +163,5 @@ for html_data in html_datas:
 # Create a dataframe with reviews Data
 df_reviews = pd.DataFrame(reviews)
 
-print(df_reviews)
-
 # Save data
-df_reviews.to_csv(f"{codigo_asin}.csv", index=False)
+df_reviews.to_csv(f"{folder}/../csv/{codigo_asin}.csv", index=False)
