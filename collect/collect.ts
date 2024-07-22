@@ -39,28 +39,41 @@ const get_reviews_url = async (page: any) => {
 const get_reviews = async (page: any) => {
   const url_path = await get_reviews_url(page);
   const url = `https://www.amazon.es${url_path}`;
+  const keep_going = true;
+  const reviews = [];
+  do {
 
-  await page.goto(url);
-  await page.waitForSelector("div[data-hook='review']");
+    await page.goto(url);
+    await page.waitForSelector("div[data-hook='review']");
 
-  const reviews = page.evaluate(() => {
-    const els = Array.from(document.querySelectorAll("div[data-hook='review']"));
-    return els.map((el) => {
-      const title = el.querySelector("[data-hook='review-title']").textContent.trim();
-      const stars = parseFloat(el.querySelector("[data-hook='cmps-review-star-rating']").textContent.split(" ")[0].trim());
-      const name = el.querySelector(".a-profile-name").textContent.trim();
-      const datestr = el.querySelector("[data-hook='review-date']").textContent.trim();
-      const review = el.querySelector("[data-hook='review-body']").textContent.trim();
+    const new_reviews = page.evaluate(() => {
+      const els = Array.from(document.querySelectorAll("div[data-hook='review']"));
+      return els.map((el) => {
+        const title = el.querySelector("[data-hook='review-title']").textContent.trim();
+        const stars = parseFloat(el.querySelector("[data-hook='cmps-review-star-rating']").textContent.split(" ")[0].trim());
+        const name = el.querySelector(".a-profile-name").textContent.trim();
+        const datestr = el.querySelector("[data-hook='review-date']").textContent.trim();
+        const review = el.querySelector("[data-hook='review-body']").textContent.trim();
 
-      return {
-        title,
-        stars,
-        name,
-        datestr,
-        review
-      };
+        return {
+          title,
+          stars,
+          name,
+          datestr,
+          review
+        };
+      });
     });
-  });
+
+    reviews.push(...new_reviews);
+
+    const [button] = await page.$x("//button[contains(., 'Button text')]");
+    if (button) {
+      await button.click();
+    }
+
+  } while (keep_going);
+
   return reviews;
 }
 
@@ -71,10 +84,8 @@ const get_date = (str => {
     septiembre: 9, octubre: 10, noviembre: 11, diciembre: 12
   };
 
-  console.log(str);
   const regex = /(\d{1,2}) de (\w+) de (\d{4})/;
   const match = str.match(regex);
-  console.log(match)
   const dia = match[1];
   const mes = match[2];
   const ano = match[3];
