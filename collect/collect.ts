@@ -39,21 +39,22 @@ const get_reviews_url = async (page: any) => {
 const get_reviews = async (page: any) => {
   const url_path = await get_reviews_url(page);
   const url = `https://www.amazon.es${url_path}`;
-  const keep_going = true;
-  const reviews = [];
-  do {
 
-    await page.goto(url);
+  let keep_going = true;
+  let reviews = [];
+  await page.goto(url);
+
+  do {
     await page.waitForSelector("div[data-hook='review']");
 
-    const new_reviews = page.evaluate(() => {
+    const new_reviews = await page.evaluate(() => {
       const els = Array.from(document.querySelectorAll("div[data-hook='review']"));
       return els.map((el) => {
-        const title = el.querySelector("[data-hook='review-title']").textContent.trim();
-        const stars = parseFloat(el.querySelector("[data-hook='cmps-review-star-rating']").textContent.split(" ")[0].trim());
-        const name = el.querySelector(".a-profile-name").textContent.trim();
-        const datestr = el.querySelector("[data-hook='review-date']").textContent.trim();
-        const review = el.querySelector("[data-hook='review-body']").textContent.trim();
+        const title = el.querySelector("[data-hook='review-title']")?.textContent.trim();
+        const stars = parseFloat(el.querySelector("[data-hook='cmps-review-star-rating']")?.textContent.split(" ")[0].trim());
+        const name = el.querySelector(".a-profile-name")?.textContent.trim();
+        const datestr = el.querySelector("[data-hook='review-date']")?.textContent.trim();
+        const review = el.querySelector("[data-hook='review-body']")?.textContent.trim();
 
         return {
           title,
@@ -65,11 +66,15 @@ const get_reviews = async (page: any) => {
       });
     });
 
-    reviews.push(...new_reviews);
+    console.log(new_reviews);
+    reviews = reviews.concat(new_reviews);
 
-    const [button] = await page.$x("//button[contains(., 'Button text')]");
+    const [button] = await page.$("::-p-xpath(//button[contains(., 'Button text')])");
     if (button) {
+      console.log("Clicking button");
       await button.click();
+    } else {
+      keep_going = false;
     }
 
   } while (keep_going);
@@ -116,7 +121,7 @@ const collect = async (asin: string = "B07T8FF784") => {
   const page = await get_page();
   const url = `https://www.amazon.es/gp/product/${asin}`;
   await page.goto(url);
-  // await delay(5000);
+  // await delay(15000);
 
   const title = await get_title(page);
   const image = await get_image(page);
