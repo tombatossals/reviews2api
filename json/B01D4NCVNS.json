@@ -1,99 +1,707 @@
 {
-    "asin": "B01D4NCVNS",
-    "title": "Aoneky Sombrero de Paraguas Manos Libres - Paraguas para Cabeza Sin Manos, 90cm de Diámetro, Paraguas Grande para Senderismo Camping Pesca Jardinería",
-    "image": "https://m.media-amazon.com/images/I/51QH99ZZ3nL._AC_SL1002_.jpg",
-    "url": "https://www.amazon.es/gp/product/B01D4NCVNS/",
-    "reviews": [
-        {
-            "Date": "25-06-2024",
-            "Description": "This is a must buy of your out in the searing sun like I am. This is a lifesaver. Well constructed, great quality. Absolutely great value for money !",
-            "Name": "Jerry Dyer",
-            "Stars": "5,0",
-            "Title": "Great fit and lightweight!"
-        },
-        {
-            "Date": "14-11-2019",
-            "Description": "5 stelle solo perché di più non posso darne!!! É eccezionale si riesce ad indossare anche su un cappellino di lana! Mani in tasca e via loConsiglio soprattutto ai “genitori” di cani",
-            "Name": "Cadei Simone Matteo",
-            "Stars": "5,0",
-            "Title": "Superlativo"
-        },
-        {
-            "Date": "28-09-2021",
-            "Description": "Práctico y cómodo este paraguas sin manos, además el mecanismo es rápido de abrir y recoger. Único a mejorar la funda mejor un poco más olgada.",
-            "Name": "Cliente Amazon",
-            "Stars": "5,0",
-            "Title": "Práctico"
-        },
-        {
-            "Date": "03-05-2022",
-            "Description": "Llevo a un peque en carrito y a otro en mochila, vi esta opción y ahora si cae una gota no salgo sin él. Vamos sequitos y como me pongo un gorro negro no queda ridículo porque no se ven las cintas. A mjorar que ls cintas que atan a oa barbilla son azules (lo suyo habria sido ponerlas negras).La idea de poner un gorro debajo la saqué de otro comprador, que subió fotos, y es la clave, queda infinitamente más discreto.Aguanta algo de viento, pero no mucho. Las cintas ayudan en esto, pero el que sea grande también hace que lleve peor lo del viento.En general, estoy muy satisfecha",
-            "Name": "Julia",
-            "Stars": "5,0",
-            "Title": "Un imprescindible si se lleva carro de bebé"
-        },
-        {
-            "Date": "22-12-2023",
-            "Description": "Me encanta el tamaño que tiene. Para mi amigo que se va a ir a cazar cumple par estar en su puesto. Algo que mejoraría es la forma de sujeción aunque tiene dos por si hay viento. Otra cosa que haría sería poner unas instrucciones para que la gente sepa que primero hay que bajar la parte delantera y luego estirarla y cómo se abre y se cierra",
-            "Name": "ROSA MARIA",
-            "Stars": "4,0",
-            "Title": "Muy guay"
-        },
-        {
-            "Date": "04-06-2020",
-            "Description": "Acheté pour me protéger du soleil et de la pluie quand je jardinais, bricolais dehors, et surtout faire du véloJardinage, bricolage:Ne pas s'approcher des arbres, impossible de les tailler, ne passe pas dans les portes quand j'avais besoin de chercher un objet dans la maison ou au sous-solou dans la voiture, ne passe pas dans les passages étroits. Il aurait fallu l'enlever à chaque fois, ce qui est peu pratique.A vélo: même sans vent, même en relevant la partie haute comme indiqué, ne tient absolument pas , voire est dangereux car obstrue la visibilité. J'ai essayé de tenir bien serré la bague de serrage mais elle glisse. Au bout de 30m j'ai dû le ranger. C'était la fonction principale qui m'intéressait.Au final, utile sûrement pour les activités immobiles ou peu rapides: pêche, affut, cueillette de fraises ou petits pois, peut-être marche à pied à condition qu'il n'y ait aucun souffle d'air, mais la photo montrant une personne à vélo est totalement mensongère, la prise d'air est trop importante. Je renvoie donc cet article.",
-            "Name": "guillet",
-            "Stars": "2,0",
-            "Title": "Inutilisable pour plusieurs fonctions"
-        },
-        {
-            "Date": "22-08-2023",
-            "Description": "Lo mejor la som y lo peor la sujeción al ser tan amplio hay que sujetarlo al cuello y con el aire cuesta mantenerlo",
-            "Name": "Taly",
-            "Stars": "2,0",
-            "Title": "La protección con las manos libres"
-        },
-        {
-            "Date": "05-08-2020",
-            "Description": "Justo lo que necesitaba 👏",
-            "Name": "jose angel",
-            "Stars": "3,0",
-            "Title": "Justo lo que se anuncia, sin mentiras"
-        },
-        {
-            "Date": "31-05-2023",
-            "Description": "Trés bien et grand.l'Attache d'un bleu électrique c'est laid et ça gâche tout. l'Attache en noir aurait été de bon goût …",
-            "Name": "Nani13👩🏻‍🦳",
-            "Stars": "5,0",
-            "Title": "Pratique"
-        },
-        {
-            "Date": "22-11-2022",
-            "Description": "Comodo, l'ho comprato soprattutto per poter lavorare in giardino d'estate. L'ho provato anche con la pioggia ed è stracomodo, unico diffetto se tira vento pur avendo il legaccio sotto il mento te lo strappa via. Non è molto robusto ma per ciò che lo uso io va bene.",
-            "Name": "paola",
-            "Stars": "5,0",
-            "Title": "Comodissimo"
-        },
-        {
-            "Date": "07-01-2024",
-            "Description": "No se aguanta, se cae al menor movimiento, ni hablemos de si hace aire ... Además se clava en la frente. Tampoco puede usarse de otra manera pues no tienes manera de sugetarlo. Un desastre, totalmente inútil.",
-            "Name": "Ruth",
-            "Stars": "1,0",
-            "Title": "Imposible de llevar puesto"
-        },
-        {
-            "Date": "17-02-2024",
-            "Description": "Es muy práctico, cambiaría el material y color de las correas que sujetan a la cabeza.",
-            "Name": "mcht",
-            "Stars": "5,0",
-            "Title": "Super practico para personas con muletas"
-        },
-        {
-            "Date": "29-07-2023",
-            "Description": "Ideal para cubrir cabeza en esos días soleados",
-            "Name": "Clemente",
-            "Stars": "5,0",
-            "Title": "Fuera sol"
-        }
-    ]
+  "title": "Aoneky Sombrero de Paraguas Manos Libres - Paraguas para Cabeza Sin Manos, 90cm de Diámetro, Paraguas Grande para Senderismo Camping Pesca Jardinería",
+  "image": "https://m.media-amazon.com/images/I/51QH99ZZ3nL._AC_SL1002_.jpg",
+  "asin": "B01D4NCVNS",
+  "reviews": [
+    {
+      "title": "5,0 de 5 estrellas\n\n\n\n\n\n\n\n  \n  \n    Super practico para personas con muletas",
+      "name": "mcht",
+      "date": "2024-02-16T23:00:00.000Z",
+      "country": "",
+      "stars": null
+    },
+    {
+      "title": "4,0 de 5 estrellas\n\n\n\n\n\n\n\n  \n  \n    Muy guay",
+      "name": "ROSA MARIA",
+      "date": "2023-12-21T23:00:00.000Z",
+      "country": "",
+      "stars": null
+    },
+    {
+      "title": "5,0 de 5 estrellas\n\n\n\n\n\n\n\n  \n  \n    Un imprescindible si se lleva carro de bebé",
+      "name": "Julia",
+      "date": "2022-05-02T22:00:00.000Z",
+      "country": "",
+      "stars": null
+    },
+    {
+      "title": "3,0 de 5 estrellas\n\n\n\n\n\n\n\n  \n  \n    Justo lo que se anuncia, sin mentiras",
+      "name": "jose angel",
+      "date": "2020-08-04T22:00:00.000Z",
+      "country": "",
+      "stars": null
+    },
+    {
+      "title": "1,0 de 5 estrellas\n\n\n\n\n\n\n\n  \n  \n    Imposible de llevar puesto",
+      "name": "Ruth",
+      "date": "2024-01-06T23:00:00.000Z",
+      "country": "",
+      "stars": null
+    },
+    {
+      "title": "5,0 de 5 estrellas\n\n\n\n\n\n\n\n  \n  \n    Fuera sol",
+      "name": "Clemente",
+      "date": "2023-07-28T22:00:00.000Z",
+      "country": "",
+      "stars": null
+    },
+    {
+      "title": "2,0 de 5 estrellas\n\n\n\n\n\n\n\n  \n  \n    La protección con las manos libres",
+      "name": "Taly",
+      "date": "2023-08-21T22:00:00.000Z",
+      "country": "",
+      "stars": null
+    },
+    {
+      "title": "5,0 de 5 estrellas\n\n\n\n\n\n\n\n  \n  \n    Práctico",
+      "name": "Cliente Amazon",
+      "date": "2021-09-27T22:00:00.000Z",
+      "country": "",
+      "stars": null
+    },
+    {
+      "title": "4,0 de 5 estrellas\n\n\n\n\n\n\n\n  \n  \n    Muy funcional.",
+      "name": "ARM",
+      "date": "2023-05-31T22:00:00.000Z",
+      "country": "",
+      "stars": null
+    },
+    {
+      "title": "4,0 de 5 estrellas\n\n\n\n\n\n\n\n  \n  \n    Protege",
+      "name": "Ángel",
+      "date": "2022-06-05T22:00:00.000Z",
+      "country": "",
+      "stars": null
+    },
+    {
+      "title": "4,0 de 5 estrellas\n\n\n\n\n\n\n\n  \n  \n    gracioso y practico",
+      "name": "Familia VRP",
+      "date": "2022-08-07T22:00:00.000Z",
+      "country": "",
+      "stars": null
+    },
+    {
+      "title": "2,0 de 5 estrellas\n\n\n\n\n\n\n\n  \n  \n    Pequeño",
+      "name": "Eva",
+      "date": "2023-08-11T22:00:00.000Z",
+      "country": "",
+      "stars": null
+    },
+    {
+      "title": "5,0 de 5 estrellas\n\n\n\n\n\n\n\n  \n  \n    Buen producto",
+      "name": "Roberto",
+      "date": "2022-02-01T23:00:00.000Z",
+      "country": "",
+      "stars": null
+    },
+    {
+      "title": "5,0 de 5 estrellas\n\n\n\n\n\n\n\n  \n  \n    Perfecto para la pesca,deja libre las manos.",
+      "name": "Jose M.",
+      "date": "2021-11-07T23:00:00.000Z",
+      "country": "",
+      "stars": null
+    },
+    {
+      "title": "4,0 de 5 estrellas\n\n\n\n\n\n\n\n  \n  \n    tamaño",
+      "name": "Cliente Amazon",
+      "date": "2018-12-23T23:00:00.000Z",
+      "country": "",
+      "stars": null
+    },
+    {
+      "title": "5,0 de 5 estrellas\n\n\n\n\n\n\n\n  \n  \n    Imprescindible para los que vamos con muletas",
+      "name": "javier",
+      "date": "2020-11-09T23:00:00.000Z",
+      "country": "",
+      "stars": null
+    },
+    {
+      "title": "2,0 de 5 estrellas\n\n\n\n\n\n\n\n  \n  \n    No és el meu ideal",
+      "name": "Catherine",
+      "date": "2019-09-13T22:00:00.000Z",
+      "country": "",
+      "stars": null
+    },
+    {
+      "title": "5,0 de 5 estrellas\n\n\n\n\n\n\n\n  \n  \n    Cómodo",
+      "name": "felix",
+      "date": "2020-09-04T22:00:00.000Z",
+      "country": "",
+      "stars": null
+    },
+    {
+      "title": "5,0 de 5 estrellas\n\n\n\n\n\n\n\n  \n  \n    Comodo",
+      "name": "Juan Luis portas piñeiro",
+      "date": "2019-06-04T22:00:00.000Z",
+      "country": "",
+      "stars": null
+    },
+    {
+      "title": "1,0 de 5 estrellas\n\n\n\n\n\n\n\n  \n  \n    Desastre",
+      "name": "Val10",
+      "date": "2020-10-25T23:00:00.000Z",
+      "country": "",
+      "stars": null
+    },
+    {
+      "title": "5,0 de 5 estrellas\n\n\n\n\n\n\n\n  \n  \n    Recomendable",
+      "name": "manuel vazquez campos",
+      "date": "2019-12-29T23:00:00.000Z",
+      "country": "",
+      "stars": null
+    },
+    {
+      "title": "5,0 de 5 estrellas\n\n\n\n\n\n\n\n  \n  \n    Perfecto",
+      "name": "Oscar",
+      "date": "2019-11-16T23:00:00.000Z",
+      "country": "",
+      "stars": null
+    },
+    {
+      "title": "Hands free",
+      "name": "Cheryl Thomas",
+      "date": "2019-11-17T23:00:00.000Z",
+      "country": "Reino Unido",
+      "stars": 5
+    },
+    {
+      "title": "Superlativo",
+      "name": "Cadei Simone Matteo",
+      "date": "2019-11-13T23:00:00.000Z",
+      "country": "Italia",
+      "stars": 5
+    },
+    {
+      "title": "Guter Sitz mit reichlich Freiraum",
+      "name": "Sam",
+      "date": "2016-06-19T22:00:00.000Z",
+      "country": "Alemania",
+      "stars": 5
+    },
+    {
+      "title": "Inutilisable pour plusieurs fonctions",
+      "name": "guillet",
+      "date": "2020-06-03T22:00:00.000Z",
+      "country": "Francia",
+      "stars": 2
+    },
+    {
+      "title": "Pratique",
+      "name": "Nani13👩🏻‍🦳",
+      "date": "2023-05-30T22:00:00.000Z",
+      "country": "Francia",
+      "stars": 5
+    },
+    {
+      "title": "Great fit and lightweight!",
+      "name": "Jerry Dyer",
+      "date": "2024-06-24T22:00:00.000Z",
+      "country": "Reino Unido",
+      "stars": 5
+    },
+    {
+      "title": "Comodissimo",
+      "name": "paola",
+      "date": "2022-11-21T23:00:00.000Z",
+      "country": "Italia",
+      "stars": 5
+    },
+    {
+      "title": "Galère!",
+      "name": "M.L",
+      "date": "2019-05-16T22:00:00.000Z",
+      "country": "Francia",
+      "stars": 1
+    },
+    {
+      "title": "Per la pesca è l’ideale",
+      "name": "Agostino",
+      "date": "2019-10-10T22:00:00.000Z",
+      "country": "Italia",
+      "stars": 5
+    },
+    {
+      "title": "Un gadget sfizioso",
+      "name": "Daniela B.",
+      "date": "2022-11-11T23:00:00.000Z",
+      "country": "Italia",
+      "stars": 4
+    },
+    {
+      "title": "Kopf-Schirm",
+      "name": "Peter K.",
+      "date": "2024-02-20T23:00:00.000Z",
+      "country": "Alemania",
+      "stars": 4
+    },
+    {
+      "title": "Idea furba!",
+      "name": "Cliente Amazon",
+      "date": "2019-12-25T23:00:00.000Z",
+      "country": "Italia",
+      "stars": 5
+    },
+    {
+      "title": "indispensable en rando",
+      "name": "Jean Pierre Delmur",
+      "date": "2023-04-11T22:00:00.000Z",
+      "country": "Francia",
+      "stars": 4
+    },
+    {
+      "title": "Works well",
+      "name": "Tom K",
+      "date": "2024-03-23T23:00:00.000Z",
+      "country": "Reino Unido",
+      "stars": 5
+    },
+    {
+      "title": "Ottimo!",
+      "name": "Axel Fala",
+      "date": "2024-03-24T23:00:00.000Z",
+      "country": "Italia",
+      "stars": 5
+    },
+    {
+      "title": "qualité /prix",
+      "name": "BOUREL",
+      "date": "2022-09-28T22:00:00.000Z",
+      "country": "Francia",
+      "stars": 5
+    },
+    {
+      "title": "Arthritis",
+      "name": "Sheryl h.",
+      "date": "2024-03-15T23:00:00.000Z",
+      "country": "Reino Unido",
+      "stars": 4
+    },
+    {
+      "title": "Gut",
+      "name": "Bernd Walther",
+      "date": "2023-08-06T22:00:00.000Z",
+      "country": "Alemania",
+      "stars": 5
+    },
+    {
+      "title": "Articolo reso",
+      "name": "maurizio consentino",
+      "date": "2019-12-10T23:00:00.000Z",
+      "country": "Italia",
+      "stars": 1
+    },
+    {
+      "title": "Qualité chinoise : c'est tout dit !",
+      "name": "SmileChester",
+      "date": "2024-06-16T22:00:00.000Z",
+      "country": "Francia",
+      "stars": 1
+    },
+    {
+      "title": "Does what it is advertising",
+      "name": "Seth Kriticos",
+      "date": "2024-05-21T22:00:00.000Z",
+      "country": "Alemania",
+      "stars": 3
+    },
+    {
+      "title": "interessante e utile ma fragile",
+      "name": "Matteo",
+      "date": "2021-04-15T22:00:00.000Z",
+      "country": "Italia",
+      "stars": 3
+    },
+    {
+      "title": "Great in theory, average in real life",
+      "name": "John",
+      "date": "2023-09-08T22:00:00.000Z",
+      "country": "Reino Unido",
+      "stars": 3
+    },
+    {
+      "title": "Head umbrella",
+      "name": "Suzanna",
+      "date": "2023-04-29T22:00:00.000Z",
+      "country": "Reino Unido",
+      "stars": 5
+    },
+    {
+      "title": "Couvre",
+      "name": "Kiki N-D",
+      "date": "2023-04-03T22:00:00.000Z",
+      "country": "Francia",
+      "stars": 3
+    },
+    {
+      "title": "pessimo",
+      "name": "Cliente Amazon",
+      "date": "2023-06-05T22:00:00.000Z",
+      "country": "Italia",
+      "stars": 1
+    },
+    {
+      "title": "Regenschirmhut",
+      "name": "Jessica",
+      "date": "2023-05-09T22:00:00.000Z",
+      "country": "Alemania",
+      "stars": 5
+    },
+    {
+      "title": "Das Geld nicht wert",
+      "name": "Buntstift",
+      "date": "2019-06-10T22:00:00.000Z",
+      "country": "Alemania",
+      "stars": 1
+    },
+    {
+      "title": "parapluie mains libre",
+      "name": "anne",
+      "date": "2019-11-04T23:00:00.000Z",
+      "country": "Francia",
+      "stars": 5
+    },
+    {
+      "title": "Ombrello",
+      "name": "clod56",
+      "date": "2024-06-08T22:00:00.000Z",
+      "country": "Italia",
+      "stars": 5
+    },
+    {
+      "title": "Not fit for use.",
+      "name": "Mrs E Federici",
+      "date": "2024-03-09T23:00:00.000Z",
+      "country": "Reino Unido",
+      "stars": 1
+    },
+    {
+      "title": "Great for hot or wet festivals",
+      "name": "Melann",
+      "date": "2024-02-10T23:00:00.000Z",
+      "country": "Reino Unido",
+      "stars": 5
+    },
+    {
+      "title": "Effizienter Sonnenschutz.",
+      "name": "Sadickes",
+      "date": "2023-09-26T22:00:00.000Z",
+      "country": "Alemania",
+      "stars": 4
+    },
+    {
+      "title": "Comodo",
+      "name": "sonia",
+      "date": "2022-10-28T22:00:00.000Z",
+      "country": "Italia",
+      "stars": 4
+    },
+    {
+      "title": "Aucun préjugé quant à la matière du parapluie, mais félicitations au sujet des fixations",
+      "name": "Client d'Amazon",
+      "date": "2020-03-07T23:00:00.000Z",
+      "country": "Francia",
+      "stars": 5
+    },
+    {
+      "title": "Buono",
+      "name": "samuele",
+      "date": "2023-11-09T23:00:00.000Z",
+      "country": "Italia",
+      "stars": 5
+    },
+    {
+      "title": "Grand",
+      "name": "Client d'Amazon",
+      "date": "2023-01-11T23:00:00.000Z",
+      "country": "Francia",
+      "stars": 4
+    },
+    {
+      "title": "😁",
+      "name": "Amazon Customer",
+      "date": "2024-01-18T23:00:00.000Z",
+      "country": "Reino Unido",
+      "stars": 5
+    },
+    {
+      "title": "Erfüllt seinen Zweck",
+      "name": "Tauchenmaxi",
+      "date": "2020-08-01T22:00:00.000Z",
+      "country": "Alemania",
+      "stars": 3
+    },
+    {
+      "title": "Practical",
+      "name": "Tigger",
+      "date": "2024-04-28T22:00:00.000Z",
+      "country": "Reino Unido",
+      "stars": 3
+    },
+    {
+      "title": "Box come inn",
+      "name": "Rhys",
+      "date": "2023-08-05T22:00:00.000Z",
+      "country": "Reino Unido",
+      "stars": 4
+    },
+    {
+      "title": "Scomodo ma fa il suo lavoro",
+      "name": "Anna",
+      "date": "2024-02-10T23:00:00.000Z",
+      "country": "Italia",
+      "stars": 3
+    },
+    {
+      "title": "Prodotto OK, spedizione pessima",
+      "name": "Dario Croci",
+      "date": "2023-07-18T22:00:00.000Z",
+      "country": "Italia",
+      "stars": 3
+    },
+    {
+      "title": "good for photography",
+      "name": "Ms. K Davison",
+      "date": "2022-11-28T23:00:00.000Z",
+      "country": "Reino Unido",
+      "stars": 4
+    },
+    {
+      "title": "Dry but windy",
+      "name": "Jonny Ross",
+      "date": "2023-10-23T22:00:00.000Z",
+      "country": "Reino Unido",
+      "stars": 2
+    },
+    {
+      "title": "Per ora molto soddisfatta",
+      "name": "Cliente Amazon",
+      "date": "2023-10-04T22:00:00.000Z",
+      "country": "Italia",
+      "stars": 3
+    },
+    {
+      "title": "used it for en plein air painting",
+      "name": "RM",
+      "date": "2023-07-21T22:00:00.000Z",
+      "country": "Alemania",
+      "stars": 4
+    },
+    {
+      "title": "Bon parapluie pour avoir les mains libres",
+      "name": "Ckstt",
+      "date": "2021-09-02T22:00:00.000Z",
+      "country": "Francia",
+      "stars": 4
+    },
+    {
+      "title": "A novel Christmas gift",
+      "name": "Katy Stuart.",
+      "date": "2023-01-06T23:00:00.000Z",
+      "country": "Reino Unido",
+      "stars": 4
+    },
+    {
+      "title": "You can do ANYTHING in this hat umbrella!!!!",
+      "name": "Dawn P.",
+      "date": "2020-06-17T22:00:00.000Z",
+      "country": "Reino Unido",
+      "stars": 5
+    },
+    {
+      "title": "Comodissimo",
+      "name": "maria lidia",
+      "date": "2023-05-30T22:00:00.000Z",
+      "country": "Italia",
+      "stars": 4
+    },
+    {
+      "title": "Sonnen und Regenschirm für den Kopf",
+      "name": "Volker Schiewe",
+      "date": "2021-07-19T22:00:00.000Z",
+      "country": "Alemania",
+      "stars": 4
+    },
+    {
+      "title": "I put in my order and got exactly what I wanted, in two days. Now that's what I call \"service\" 👍",
+      "name": "Gerard Conlon",
+      "date": "2023-07-12T22:00:00.000Z",
+      "country": "Reino Unido",
+      "stars": 5
+    },
+    {
+      "title": "Came snapped",
+      "name": "MAK",
+      "date": "2023-08-29T22:00:00.000Z",
+      "country": "Reino Unido",
+      "stars": 2
+    },
+    {
+      "title": "Plenty big",
+      "name": "Mrs. Felicity Taylor",
+      "date": "2023-09-08T22:00:00.000Z",
+      "country": "Reino Unido",
+      "stars": 5
+    },
+    {
+      "title": "Fantastic - super good 👍",
+      "name": "Joel",
+      "date": "2019-09-08T22:00:00.000Z",
+      "country": "Reino Unido",
+      "stars": 4
+    },
+    {
+      "title": "Ideal",
+      "name": "Lee Gymer",
+      "date": "2023-08-23T22:00:00.000Z",
+      "country": "Reino Unido",
+      "stars": 5
+    },
+    {
+      "title": "Funny but functional",
+      "name": "Bazztazz",
+      "date": "2021-08-09T22:00:00.000Z",
+      "country": "Reino Unido",
+      "stars": 5
+    },
+    {
+      "title": "An alright bit of kit but could be better built",
+      "name": "CrannyMan",
+      "date": "2019-09-14T22:00:00.000Z",
+      "country": "Reino Unido",
+      "stars": 4
+    },
+    {
+      "title": "Difficile da chiudere...",
+      "name": "ughetta",
+      "date": "2022-12-02T23:00:00.000Z",
+      "country": "Italia",
+      "stars": 4
+    },
+    {
+      "title": "Can work with both hands free!!!!",
+      "name": "Angus G.",
+      "date": "2021-10-09T22:00:00.000Z",
+      "country": "Reino Unido",
+      "stars": 4
+    },
+    {
+      "title": "Keeps you dry if you don't mind funny looks.",
+      "name": "Andy V.",
+      "date": "2017-06-23T22:00:00.000Z",
+      "country": "Reino Unido",
+      "stars": 4
+    },
+    {
+      "title": "Buona stabilità sulla testa emani libere",
+      "name": "Tamara Lipparini",
+      "date": "2021-08-05T22:00:00.000Z",
+      "country": "Italia",
+      "stars": 4
+    },
+    {
+      "title": "Più simpatico che utile.",
+      "name": "Federico Arnò",
+      "date": "2022-03-02T23:00:00.000Z",
+      "country": "Italia",
+      "stars": 3
+    },
+    {
+      "title": "Really good, keeps your hands free whilst protecting you from the rain",
+      "name": "Valentina",
+      "date": "2021-07-11T22:00:00.000Z",
+      "country": "Reino Unido",
+      "stars": 5
+    },
+    {
+      "title": "Not good…",
+      "name": "Anwesha G.",
+      "date": "2023-05-21T22:00:00.000Z",
+      "country": "Reino Unido",
+      "stars": 2
+    },
+    {
+      "title": "Ottimo",
+      "name": "Bruce waine",
+      "date": "2023-08-23T22:00:00.000Z",
+      "country": "Italia",
+      "stars": 5
+    },
+    {
+      "title": "Regenschirm am Kopf Tragend",
+      "name": "Tomislav Muranji",
+      "date": "2020-07-26T22:00:00.000Z",
+      "country": "Alemania",
+      "stars": 4
+    },
+    {
+      "title": "Junk",
+      "name": "Mr. Steve",
+      "date": "2023-11-30T23:00:00.000Z",
+      "country": "Reino Unido",
+      "stars": 1
+    },
+    {
+      "title": "War ein Scherzgeschenk an einen Angler",
+      "name": "Annemarie Antonio",
+      "date": "2021-11-15T23:00:00.000Z",
+      "country": "Alemania",
+      "stars": 4
+    },
+    {
+      "title": "Looks Good",
+      "name": "Emmanuel Adebakin",
+      "date": "2019-05-06T22:00:00.000Z",
+      "country": "Reino Unido",
+      "stars": 4
+    },
+    {
+      "title": "pour la pêche lors de pluie battante",
+      "name": "el sénégalais",
+      "date": "2020-10-01T22:00:00.000Z",
+      "country": "Francia",
+      "stars": 4
+    },
+    {
+      "title": "Buon prodotto",
+      "name": "Piergiorgio Muraro",
+      "date": "2020-11-21T23:00:00.000Z",
+      "country": "Italia",
+      "stars": 5
+    },
+    {
+      "title": "Semble assez fragile",
+      "name": "gzreviewer",
+      "date": "2020-10-09T22:00:00.000Z",
+      "country": "Francia",
+      "stars": 3
+    },
+    {
+      "title": "Instabile",
+      "name": "Elisa R.",
+      "date": "2023-04-22T22:00:00.000Z",
+      "country": "Italia",
+      "stars": 2
+    },
+    {
+      "title": "Spettacolare",
+      "name": "Athos",
+      "date": "2023-06-14T22:00:00.000Z",
+      "country": "Italia",
+      "stars": 5
+    },
+    {
+      "title": "Buon prodotto, ideale per avere le mani libere una volta indossato",
+      "name": "Alberto Caporale",
+      "date": "2020-10-10T22:00:00.000Z",
+      "country": "Italia",
+      "stars": 4
+    },
+    {
+      "title": "Prompt delivery",
+      "name": "linda etheridge",
+      "date": "2022-09-16T22:00:00.000Z",
+      "country": "Reino Unido",
+      "stars": 5
+    }
+  ]
 }

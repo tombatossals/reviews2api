@@ -46,8 +46,6 @@ export const get_page = async () => {
     const cookies = JSON.parse(cookiesString.toString());
     await page.setCookie(...cookies);
   } catch (e) { }
-
-  console.log(await page.cookies());
   return page;
 };
 

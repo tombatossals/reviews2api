@@ -30,7 +30,13 @@ const get_image = async (page: any) => {
 
 const get_reviews_url = async (page: any) => {
   const url = await page.evaluate(() => {
-    return document.querySelector("#cr-pagination-footer-0 > a").attributes["href"].value;
+    const elements = [...document.querySelectorAll('a')];
+    const targetElement = elements.find(el => el.textContent.includes('Ver más opiniones'));
+    let url = "";
+    if (targetElement) {
+      url = targetElement.attributes["href"].value;
+    }
+    return url;
   });
 
   return url.trim();
@@ -38,15 +44,16 @@ const get_reviews_url = async (page: any) => {
 
 const get_reviews = async (page: any) => {
   const url_path = await get_reviews_url(page);
-  const url = `https://www.amazon.es${url_path}`;
+  let url = `https://www.amazon.es${url_path}`;
 
-  let keep_going = true;
   let reviews = [];
+  let count = 1;
+  let next = null;
+  await delay(3000);
   await page.goto(url);
 
   do {
     await page.waitForSelector("div[data-hook='review']");
-
     const new_reviews = await page.evaluate(() => {
       const els = Array.from(document.querySelectorAll("div[data-hook='review']"));
       return els.map((el) => {
@@ -66,18 +73,25 @@ const get_reviews = async (page: any) => {
       });
     });
 
-    console.log(new_reviews);
     reviews = reviews.concat(new_reviews);
+    console.log(`Page ${count}. Fetched ${reviews.length} reviews...`);
 
-    const [button] = await page.$("::-p-xpath(//button[contains(., 'Button text')])");
-    if (button) {
-      console.log("Clicking button");
-      await button.click();
-    } else {
-      keep_going = false;
+    next = await page.evaluate(() => {
+      const elements = [...document.querySelectorAll('a')];
+      const targetElement = elements.find(el => el.textContent.includes('Página siguiente'));
+      if (targetElement) {
+        targetElement.click();
+        return 'ok';
+      }
+      return null;
+    });
+
+    await delay(5000);
+    if (next) {
+      count = count + 1;
     }
 
-  } while (keep_going);
+  } while (next);
 
   return reviews;
 }
@@ -106,6 +120,9 @@ const get_date = (str => {
 const get_country = (str) => {
   const regex = /en ([\w\s]+) el/;
   const match = str.match(regex);
+  if (!match) {
+    return "";
+  }
   return match[1];
 }
 
@@ -126,10 +143,7 @@ const collect = async (asin: string = "B07T8FF784") => {
   const title = await get_title(page);
   const image = await get_image(page);
   const reviews1 = await get_reviews(page);
-
   const reviews = format_reviews(reviews1);
-  console.log(reviews);
-
 
   fs.writeFileSync(`../json/${asin}.json`, JSON.stringify({ title, image, asin, reviews }, null, 2));
 
