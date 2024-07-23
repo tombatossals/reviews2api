@@ -19,6 +19,6 @@ fs.readdir(d, (err, files) => {
         })
     });
 
-    fs.writeFileSync(path.join(__dirname, '../nextjs/public/data/index.json'), JSON.stringify({ products }, null, 2));
+    fs.writeFileSync(path.join(__dirname, '../nextjs/public/data/products.json'), JSON.stringify({ products }, null, 2));
     console.log(products);
 });
