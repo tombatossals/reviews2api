@@ -58,14 +58,15 @@ const get_reviews = async (page: any) => {
       const els = Array.from(document.querySelectorAll("div[data-hook='review']"));
       return els.map((el) => {
         const title = el.querySelector("[data-hook='review-title']")?.textContent.trim();
-        const stars = parseFloat(el.querySelector("[data-hook='cmps-review-star-rating']")?.textContent.split(" ")[0].trim());
+        const stars = el.querySelector("[data-hook='cmps-review-star-rating']")?.textContent.split(" ")[0].trim();
+        const stars2 = el.querySelector("[data-hook='review-star-rating']")?.textContent.split(" ")[0].trim();
         const name = el.querySelector(".a-profile-name")?.textContent.trim();
         const datestr = el.querySelector("[data-hook='review-date']")?.textContent.trim();
         const review = el.querySelector("[data-hook='review-body']")?.textContent.trim();
-
+        const title2 = el.querySelector("a[data-hook='review-title'] > span:nth-child(3)")?.textContent.trim();
         return {
-          title,
-          stars,
+          title: title2 || title,
+          stars: stars2 || stars,
           name,
           datestr,
           review
@@ -73,6 +74,7 @@ const get_reviews = async (page: any) => {
       });
     });
 
+    console.log(new_reviews);
     reviews = reviews.concat(new_reviews);
     console.log(`Page ${count}. Fetched ${reviews.length} reviews...`);
 
@@ -145,7 +147,7 @@ const collect = async (asin: string = "B07T8FF784") => {
   const reviews1 = await get_reviews(page);
   const reviews = format_reviews(reviews1);
 
-  fs.writeFileSync(`../json/${asin}.json`, JSON.stringify({ title, image, asin, reviews }, null, 2));
+  fs.writeFileSync(`../json/${asin}.json`, JSON.stringify({ title, image, asin, url, reviews }, null, 2));
 
   const cookies = await page.cookies();
   await fs.writeFileSync("./cookies.json", JSON.stringify(cookies, null, 2));
