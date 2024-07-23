@@ -1,7 +1,7 @@
 import fs from "fs"
 import path from "path"
 
-const d = path.join(__dirname, '../json/products');
+const d = path.join(__dirname, '../nextjs/public/data/products');
 
 const products = [];
 
@@ -14,10 +14,11 @@ fs.readdir(d, (err, files) => {
             title: data.title,
             image: data.image,
             asin: data.asin,
+            stars: data.stars,
             num_reviews: data.reviews.length
         })
     });
 
-    fs.writeFileSync(path.join(__dirname, '../json/index.json'), JSON.stringify({ products }, null, 2));
+    fs.writeFileSync(path.join(__dirname, '../nextjs/public/data/index.json'), JSON.stringify({ products }, null, 2));
     console.log(products);
 });

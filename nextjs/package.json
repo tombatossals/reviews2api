@@ -20,7 +20,7 @@
   "devDependencies": {
     "@cloudflare/next-on-pages": "^1.12.1",
     "@cloudflare/workers-types": "^4.20240722.0",
-    "@types/node": "^20",
+    "@types/node": "^20.14.11",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "autoprefixer": "^10.0.1",
