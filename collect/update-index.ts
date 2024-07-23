@@ -1,9 +1,23 @@
 import fs from "fs"
 import path from "path"
 
-const d = path.join(__dirname, '../json');
+const d = path.join(__dirname, '../json/products');
+
+const products = [];
 
 fs.readdir(d, (err, files) => {
     const f = files.filter(file => path.extname(file).toLowerCase() === '.json');
-    console.log(f)
-})
+    f.forEach(file => {
+        const data = JSON.parse(fs.readFileSync(path.join(d, file), 'utf8'));
+        products.push({
+            url: data.url,
+            title: data.title,
+            image: data.image,
+            asin: data.asin,
+            num_reviews: data.reviews.length
+        })
+    });
+
+    fs.writeFileSync(path.join(__dirname, '../json/index.json'), JSON.stringify({ products }, null, 2));
+    console.log(products);
+});
