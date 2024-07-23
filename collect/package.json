@@ -10,11 +10,12 @@
   "description": "",
   "dependencies": {
     "dayjs": "^1.11.12",
+    "npm-check-updates": "^16.14.20",
     "puppeteer": "^22.13.1",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-anonymize-ua": "^2.4.6",
     "puppeteer-extra-plugin-stealth": "^2.11.2",
-    "user-agents": "^1.1.272"
+    "user-agents": "^1.1.274"
   },
   "devDependencies": {
     "@types/user-agents": "^1.0.4"
