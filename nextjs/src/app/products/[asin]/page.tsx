@@ -3,6 +3,8 @@ import { Product, Review as ReviewType } from "../../../types";
 import Image from "next/image";
 import dayjs from "dayjs";
 
+export const runtime = "edge";
+
 const sortFechas = (reviews: ReviewType[] | undefined) => {
   return reviews?.sort((a, b) => {
     return dayjs(b.date).unix() - dayjs(a.date).unix();
