@@ -1,18 +1,18 @@
 import React from "react";
 import { Product } from "../../types";
 import Link from "next/link";
-
+import Image from "next/image";
 const Card = ({ product }: { product: Product }) => {
   return (
     <Link
-      href={`/products/${product.asin}`}
+      href={`/`}
       className="relative block rounded-tr-3xl border border-gray-100"
     >
       <span className="absolute -right-px -top-px rounded-bl-3xl rounded-tr-3xl bg-rose-600 px-6 py-4 font-medium uppercase tracking-widest text-white">
         {product.stars} Stars
       </span>
 
-      <img
+      <Image
         src={product.image}
         alt={product.title}
         className="-ml-6 -mt-6 h-80 w-full rounded-bl-3xl rounded-tr-3xl border border-gray-300 object-cover"
