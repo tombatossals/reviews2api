@@ -20,7 +20,9 @@ export default function RootLayout({
       <body className={inter.className}>
         <div className="m-8">
           <h1 className="mb-16 mx-0 px-0 text-4xl font-bold">
-            <Link href="/">Awesome Amazon Products</Link>
+            <Link className="hover:text-red-800" href="/">
+              Awesome Amazon Products
+            </Link>
           </h1>
           {children}
         </div>
