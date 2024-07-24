@@ -5,7 +5,7 @@ const HomePage = async () => {
   const res = await fetch(process.env.PRODUCTS_URL);
   let products: Product[] = [];
   console.log(res);
-  if (res.headers.get("content-type") == "application/json; charset=UTF-8") {
+  if (res.headers.get("content-type")?.search("application/json") !== -1) {
     const data: Products = await res.json();
     products = data.products;
   }
