@@ -3,7 +3,12 @@ import { Product, Products } from "../types";
 
 const HomePage = async () => {
   const res = await fetch(process.env.PRODUCTS_URL);
-  const { products }: Products = await res.json();
+  let products: Product[] = [];
+  console.log(res);
+  if (res.headers.get("content-type") == "application/json; charset=UTF-8") {
+    const data: Products = await res.json();
+    products = data.products;
+  }
 
   return (
     <div className="m-8">

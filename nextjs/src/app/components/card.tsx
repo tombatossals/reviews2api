@@ -15,6 +15,8 @@ const Card = ({ product }: { product: Product }) => {
       <Image
         src={product.image}
         alt={product.title}
+        width={300}
+        height={300}
         className="-ml-6 -mt-6 h-80 w-full rounded-bl-3xl rounded-tr-3xl border border-gray-300 object-cover"
       />
 
