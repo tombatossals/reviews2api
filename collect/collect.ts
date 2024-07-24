@@ -1,6 +1,7 @@
 import { parseArgs } from "node:util";
 import fs from "fs";
 import dayjs from "dayjs";
+import path from "path"
 
 dayjs.locale("es");
 
@@ -150,7 +151,7 @@ const collect = async (asin: string = "B07T8FF784") => {
   fs.writeFileSync(`../json/${asin}.json`, JSON.stringify({ title, image, asin, url, reviews }, null, 2));
 
   const cookies = await page.cookies();
-  await fs.writeFileSync("./cookies.json", JSON.stringify(cookies, null, 2));
+  await fs.writeFileSync(path.join(__dirname, `../nextjs/public/api/products/${asin}.json`, JSON.stringify(cookies, null, 2));
   await page.browser().close();
 };
 

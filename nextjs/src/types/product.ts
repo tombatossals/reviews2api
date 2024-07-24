@@ -3,7 +3,7 @@ export interface Product {
     title: string;
     image: string;
     url: string;
-    reviews: number;
+    num_reviews: number;
     stars: number;
 }
 

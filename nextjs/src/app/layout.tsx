@@ -16,7 +16,14 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className}>
+        <div className="m-8">
+          <h1 className="mb-16 mx-0 px-0 text-4xl font-bold">
+            Awesome Amazon Products
+          </h1>
+          {children}
+        </div>
+      </body>
     </html>
   );
 }
