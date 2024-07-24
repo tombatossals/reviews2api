@@ -9,406 +9,464 @@
       "name": "José Juan Medina Cobacho",
       "date": "2022-09-16T22:00:00.000Z",
       "country": "",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "Regalo"
     },
     {
       "title": "Nada que ver",
       "name": "Javier Lluch",
       "date": "2022-01-03T23:00:00.000Z",
       "country": "",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "El producto no tiene nada que ver con las fotos, es un cojín super pequeño y el precio me parece excesivo para lo que es :( muy triste"
     },
     {
       "title": "Divertido",
       "name": "Cliente Amazon",
       "date": "2022-03-22T23:00:00.000Z",
       "country": "",
-      "stars": "4,0"
+      "stars": "4,0",
+      "review": "Muy logrado"
     },
     {
       "title": "Aceptable",
       "name": "alejandro",
       "date": "2020-04-18T22:00:00.000Z",
       "country": "",
-      "stars": "3,0"
+      "stars": "3,0",
+      "review": "Esta bien, pero cuando pase la cuarentena le cambiare el relleno, por que eso le falla."
     },
     {
       "title": "Porquería",
       "name": "Rocio",
       "date": "2022-05-05T22:00:00.000Z",
       "country": "",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "Chiquitísimo, arrugadisimo, la tela es casi papel....parece de todo menos una barra de pan"
     },
     {
       "title": "No lleva cremallera",
       "name": "Carolina",
       "date": "2022-01-09T23:00:00.000Z",
       "country": "",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "Arrugada, no se corresponde con la foto, y no lleva cremallera"
     },
     {
       "title": "Es muy pequeño!!",
       "name": "Cliente Amazon",
       "date": "2021-03-05T23:00:00.000Z",
       "country": "",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "No es lo que parece!!"
     },
     {
       "title": "Que no os engañen las fotos",
       "name": "Juan Frco.",
       "date": "2020-02-21T23:00:00.000Z",
       "country": "",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "Es de un tamaño similiar al antebrazo, Las imágnes del producto están claramente manipuladas"
     },
     {
       "title": "Great value",
       "name": "Robert",
       "date": "2020-12-19T23:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "Great value and super fun for me"
     },
     {
       "title": "Husband loved it",
       "name": "Husband loved it",
       "date": "2024-01-11T23:00:00.000Z",
       "country": "Alemania",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "Husband Loved It"
     },
     {
       "title": "Produit",
       "name": "DB",
       "date": "2023-03-10T23:00:00.000Z",
       "country": "Francia",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "C est un bon produit"
     },
     {
       "title": "Mjuk",
       "name": "Baguette",
       "date": "2023-01-26T23:00:00.000Z",
       "country": "Suecia",
-      "stars": "4,0"
+      "stars": "4,0",
+      "review": "Mjuk och skön"
     },
     {
       "title": "Flut",
       "name": "Jevt",
       "date": "2023-11-28T23:00:00.000Z",
       "country": "",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "Slechte kwaliteit, bobbelige vulling, gat in het kussen veel kleiner dan aangegeven. Pure rommel, niet meer waard dan de prullenbak"
     },
     {
       "title": "Miglior regalo di compleanno per Celiaci!",
       "name": "Eros La Spina",
       "date": "2022-10-07T22:00:00.000Z",
       "country": "Italia",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "Abbiamo acquistato questo cuscino come regalo ad un nostro amico celiaco: la reazione è stata indimenticabile.Il cuscino si presenta morbido e abbastanza realistico, non peccando di qualità di stampa. Non sarà grandissimo, ma fa comunque la sua figura.Consigliatissimo come idea regalo, soprattutto se per celiaci!"
     },
     {
       "title": "Avoid, not worth the money.",
       "name": "Rod",
       "date": "2024-05-12T22:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "The pillow arrived on time but was flat as a pancake.Thought once it was opened up it would resemble something like the robust pillow in the pictures, I was wrong.It feels half empty like half the stuffing fell out and they decided not to refill it.If it wasn't for the fact that it's a present my daughter wants to give her friend I wouldve sent it back, I could tell by the look on her face as well that she was disappointed.Avoid avoid avoid."
     },
     {
       "title": "Eigentlich Betrug",
       "name": "j.h.",
       "date": "2023-08-18T22:00:00.000Z",
       "country": "Alemania",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "Das Kissen sieht bei WEITEM nicht so aus, wie beworben. Auch sind es keine 40cm, sondern 34. Der Aufdruck sieht eher aus wie ein grobpxeliges Foto eines Brotes. Auch plustert es sich nicht so aus, wie der Anbieter behauptet. Die Füllung bleibt klumpig und das Kissen insgesamt wabbelig. Für 22 Euro der reinste Betrug. Warum der Anbieter das hier so bewerben darf, fragt man sich da.."
     },
     {
       "title": "Scadente",
       "name": "Pansera M.",
       "date": "2024-02-21T23:00:00.000Z",
       "country": "Italia",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "Il cuscino, non corrisponde alla descrizione. Arriva sottovuoto e bisogna aspettare 24 per vederlo totalmente gonfio. Purtroppo l’imbottitura non è omogenea ed è più piccolo di quanto riportato sulla descrizione.Non vale il prezzo pagato."
     },
     {
       "title": "coussin imitation",
       "name": "Client d'Amazon",
       "date": "2022-09-04T22:00:00.000Z",
       "country": "Francia",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "les dimensions sont erronées, produit à fuir absolument.De très mauvaise qualités."
     },
     {
       "title": "Not as soft",
       "name": "m",
       "date": "2022-12-26T23:00:00.000Z",
       "country": "Suecia",
-      "stars": "3,0"
+      "stars": "3,0",
+      "review": "It wasn’t as soft and fluffy as I thought and it was a bit lumpy"
     },
     {
       "title": "Als Scherz gedacht",
       "name": "Amazon Kunde",
       "date": "2022-01-07T23:00:00.000Z",
       "country": "Alemania",
-      "stars": "4,0"
+      "stars": "4,0",
+      "review": "War für einen kleinen Scherz gedacht und dafür war es auf alle Fälle top.Wird sogar regelmäßig benutzt, was wir vorher nicht für möglich hielten :-)"
     },
     {
       "title": "Not good value for money",
       "name": "Caroline",
       "date": "2021-04-05T22:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "2,0"
+      "stars": "2,0",
+      "review": "Smaller than we thought, unzipped and stuffing came out, not worth the money"
     },
     {
       "title": "Ottimo",
       "name": "Alice03",
       "date": "2020-05-03T22:00:00.000Z",
       "country": "Italia",
-      "stars": "4,0"
+      "stars": "4,0",
+      "review": "Arrivato il giorno previsto, molto morbido"
     },
     {
       "title": "Realität vs Bild",
       "name": "Anonym",
       "date": "2023-07-15T22:00:00.000Z",
       "country": "Alemania",
-      "stars": "3,0"
+      "stars": "3,0",
+      "review": "Auf den Produktbildern und auch, wenn man selbst ein Bild macht, sieht es täuschend echt aus. In echt sieht es aus, wie ein bedrucktes Kissen OHNE Tiefe."
     },
     {
       "title": "Awful quality",
       "name": "Lucy",
       "date": "2024-02-24T23:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "This looks nothing like the picture and isn't worth £15.99. Theres barely any stuffing in it. As it’s a joke present for someone at work, I'm going to have to take it apart and add more stuffing into it. Total scam."
     },
     {
       "title": "PENSAVO FOSSE PIU' GRANDE",
       "name": "Elena",
       "date": "2023-01-02T23:00:00.000Z",
       "country": "Italia",
-      "stars": "3,0"
+      "stars": "3,0",
+      "review": "Dalle foto sembrava molto piu' grande. Secondo me il prezzo è un po' alto."
     },
     {
       "title": "Hermoso, chiquito",
       "name": "Evangelina",
       "date": "2022-10-12T22:00:00.000Z",
       "country": "Italia",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "Hermoso, chiquito"
     },
     {
       "title": "cushion",
       "name": "dragonwitch",
       "date": "2020-10-29T23:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "3,0"
+      "stars": "3,0",
+      "review": "The cushion came early which i was grateful for BUT,  the cushion is described as a lumbar back cushion , so my expectation was it would be a more solid cushion. What i got was a floppy soft cushion. The design is great and very satisfied with that but i'm giving it as a present to someone with back issues and so i will take the stuffing out and re-due it."
     },
     {
       "title": "Tochter glücklich",
       "name": "Toanro76",
       "date": "2023-05-10T22:00:00.000Z",
       "country": "Alemania",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "Das Kissen hat sich meine Tochter gewünscht. Die ist sehr zufrieden damit."
     },
     {
       "title": "Deludente",
       "name": "Paolo M.",
       "date": "2024-06-18T22:00:00.000Z",
       "country": "Italia",
-      "stars": "2,0"
+      "stars": "2,0",
+      "review": "Il cuscino è arrivato sottovuoto (il che era prevedibile e sensato), ma quando ho aperto la busta è rimasto tutto accartocciato... Allora l'ho sprimacciato ma la cosa è servita a poco, la forma è irregolare e soprattutto l'imbottitura non pare neanche ovatta sintetica. Le dimensioni sono di 40cm scarsi."
     },
     {
       "title": "Grear, but needs more stuffing",
       "name": "EBF",
       "date": "2021-08-03T22:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "4,0"
+      "stars": "4,0",
+      "review": "The cushion (baguette) is really cool and comfortable, but I had to add the stuffing from another pillow in order to make it really plump."
     },
     {
       "title": "Werbung irreführend",
       "name": "Karsten",
       "date": "2020-02-03T23:00:00.000Z",
       "country": "Alemania",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "Das Kissen kam heute wie bestellt pünktlich bei mir an. Der Karton wirkte auf den ersten Blick etwas klein für das erwartete Produkt. Das Kissen ist vakuumverpackt, bläht sich aber auch nach dem Auspacken kaum auf.Die Maße stehen bei der Bestellung dabei, aber die Bilder suggerieren etwas völlig anderes und bilden ein viel größeres Produkt ab.Kurz: das Kissen ist ungefähr so lang wie mein Unterarm, viel kleiner als die verwendeten Abbildungen oder die Dame auf den Fotos ist nur knapp einen Meter groß.Ich gebe das Kissen wie geplant als scherzhafte Zugabe zu einem Geschenk weiter. Hätte ich es mit ernsten Absichten bestellt, würde ich hier die Grenze zur betrügerischen Absicht zumindest berührt sehen."
     },
     {
       "title": "Qualità pessima",
       "name": "Marcella",
       "date": "2024-03-10T23:00:00.000Z",
       "country": "Italia",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "Qualità molto scadente"
     },
     {
       "title": "Looks nothing like the picture",
       "name": "Bobby",
       "date": "2023-12-31T23:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "It doesn't look much like the picture. Hasn't got a removable cover like it says and it's filled with what feels like scrunched up socks. It's not stuffed either with filling It's just got a little bit in so the covers really saggy and the stuffing falls down to one end. My son really wanted this pillow but it's really rubbish. It's not comfortable to lean on because of the horrible stuffing."
     },
     {
       "title": "Zufrieden",
       "name": "Andrea Siegert",
       "date": "2022-07-10T22:00:00.000Z",
       "country": "Alemania",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "Das Kissen kommt immer gut an. Es entlockt jedem ein Lächeln. Ich mag es weil es so weich ist und benutze es als Kuscheltier"
     },
     {
       "title": "Poor quality and average at best",
       "name": "Justyn",
       "date": "2021-05-08T22:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "2,0"
+      "stars": "2,0",
+      "review": "Average at best. Minimum and poor quality stuffing that is lumpy and doesn’t even fill a quarter of the cushion. Had to buy addditional stuffing to make any where near useable"
     },
     {
       "title": "Non rispetta la descrizione",
       "name": "Racola",
       "date": "2023-01-17T23:00:00.000Z",
       "country": "Italia",
-      "stars": "2,0"
+      "stars": "2,0",
+      "review": "Più piccolo di quanto dichiarato e non ha la zip per poter lavare la fodera"
     },
     {
       "title": "Geht so",
       "name": "Sara B",
       "date": "2022-03-16T23:00:00.000Z",
       "country": "Alemania",
-      "stars": "3,0"
+      "stars": "3,0",
+      "review": "Das Kissen sieht sehr schön aus und fühlt sich von außen sehr weich an. Wenn man aber genauer fühlt ist es von innen sehr knautschig und \"bobbelig\" nicht wirklich bequem was sehr schade ist."
     },
     {
       "title": "Awful",
       "name": "Mini",
       "date": "2024-06-28T22:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "Brought as a gift, really disappointed. It's small, not much bigger than a toddler bottle, flat, creased and hardly any stuffing, nothing at all like the description or pictures. I feel scammed I paid good money for something that looks and feels like it's from poundland. DO NOT BUY!!!!!!!!! What an absolute joke!!!!"
     },
     {
       "title": "Looks bigger than it is",
       "name": "abigail fleming",
       "date": "2023-11-28T23:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "2,0"
+      "stars": "2,0",
+      "review": "Only buy if you want a small pillow"
     },
     {
       "title": "😕",
       "name": "Emma Dixon",
       "date": "2020-05-12T22:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "3,0"
+      "stars": "3,0",
+      "review": "Thought it would be way bigger but it could use way more stuffing then it would be fine 🤷🏼‍♀️ recommend buying at bigger sized one."
     },
     {
       "title": "Tiny, trust me",
       "name": "Richard",
       "date": "2022-06-07T22:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "2,0"
+      "stars": "2,0",
+      "review": "The thing is just about bigger than my head. I paid 30 euros for this? Cmon...I don't recommend."
     },
     {
       "title": "Cheap small unpleasant item, complete rubbish",
       "name": "TanCB",
       "date": "2023-11-04T23:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "My daughter thought this would be fun silly present for a friend but it was such poor quality…lumpy little thing, couldn’t use it as any kind of cushion. Just a piece of rubbish. Insult for £16 - am returning"
     },
     {
       "title": "disappointed",
       "name": "Johnathon Knapton",
       "date": "2022-02-15T23:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "2,0"
+      "stars": "2,0",
+      "review": "much smaller, and much less realistic than expected"
     },
     {
       "title": "Appalling",
       "name": "Scib",
       "date": "2023-12-01T23:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "Absolutely appalled at the poor quality of the item, nothing like described. Really wish I'd read the reviews beforehand. Returning immediately."
     },
     {
       "title": "Do not buy this product!",
       "name": "Mrs K Jones",
       "date": "2022-01-02T23:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "I bought this pillow as a present and was really disappointed when I took it out of the packaging. The product information states it will expand, it doesn't! We even put ours in tumble dryer to try and get it to rise it is just flat, complete and utter dissapointment!"
     },
     {
       "title": "Rubbish item !",
       "name": "Pete Gates",
       "date": "2021-05-03T22:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "Received this today, please don’t waste your money ! This really is rubbish product the stuffing is terrible , I brought this for a  present. It will in the bin in a matter of weeks the worst £29.99 I’ve spent in long while! Be warned !"
     },
     {
       "title": "Cheap rubbish",
       "name": "Mr m bostock",
       "date": "2020-12-26T23:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "What a cheap looking badly stuffed small pillow thing this is for £16 I am honest shocked how rubbish this is. Please don’t waist your money it’s the kind of thing you would find on the market for a couple of pounds."
     },
     {
       "title": "Don't bother",
       "name": "kat",
       "date": "2021-12-17T23:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "I thought it would puff up a bit but it's small bits of filling and hardly any, going to have to re stuff it"
     },
     {
       "title": "What the hell even is this?",
       "name": "Joseph Rice",
       "date": "2023-07-01T22:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "It’s 10x smaller than advertised and isn’t even filled with stuffing?"
     },
     {
       "title": "Don’t get this product",
       "name": "Mr J Forsyth",
       "date": "2021-01-14T23:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "It was horrible , it was so small not filled and it was droopy . It was about 20cm. Horrible purchase and it was £17!!!!! Don’t buy"
     },
     {
       "title": "Wow so dissatisfied",
       "name": "kathy",
       "date": "2021-04-19T22:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "Absolutely disgusted with is paid £30 for a half stuffed lumpy cushion that looks nothing like the picture worth a fiver if that."
     },
     {
       "title": "Don't bother",
       "name": "Amazon Customer",
       "date": "2022-04-07T22:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "Print & fabric ok, filling I had to pull apart to fill properly"
     },
     {
       "title": "Tini tiny",
       "name": "Gaynor Haynes-Lewis",
       "date": "2020-12-26T23:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "Tiny product, not what is shown in the photo. Unless the woman was born in Lilliput or is a borrower!!!"
     },
     {
       "title": "awful quality, lumpy and not filled",
       "name": "Toby Chambers",
       "date": "2021-10-13T22:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "awful quality product.filling is lumpy and doesn’t expand as expected.complete waste of money."
     },
     {
       "title": "Waste of money",
       "name": "Amazon Customer",
       "date": "2021-09-05T22:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "Product arrived vacuum packed. Only half the stuffing came with it. Don't buy."
     },
     {
       "title": "Very poorly stuffed",
       "name": "Martin",
       "date": "2021-11-27T23:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "Nowhere near enough stuffing as per other reviews. Expect to buy more."
     },
     {
       "title": "Rubbish",
       "name": "Claire Arthurs",
       "date": "2020-12-24T23:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "The picture was misleading.  It’s tiny and disappointing.  Don’t bother"
     },
     {
       "title": "Don’t waste your money",
       "name": "Amazon Customer",
       "date": "2020-10-12T22:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "Poor quality, lumpy, waste of money, don’t bother buying."
     }
   ]
 }

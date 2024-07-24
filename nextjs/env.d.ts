@@ -8,6 +8,7 @@ declare global {
     namespace NodeJS {
         interface ProcessEnv {
             PRODUCTS_URL: string;
+            PRODUCT_URL: string;
             GITHUB_AUTH_TOKEN: string;
             NODE_ENV: 'development' | 'production';
             PORT?: string;

@@ -14,7 +14,7 @@ const truncateText = (text: string) => {
 const Card = ({ product }: { product: Product }) => {
   return (
     <Link
-      href={`/`}
+      href={`/products/${product.asin}`}
       className="group relative block flex flex-col justify-end bg-gray-50 hover:bg-gray-200 rounded-tr-3xl rounded-b-lg border border-gray-300"
     >
       <Image

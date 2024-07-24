@@ -33,7 +33,7 @@ export const get_page = async () => {
 
   const browser = await puppeteer.launch({
     //headless: "new",
-    headless: false,
+    headless: true,
     args: ["--incognito"],
   });
 

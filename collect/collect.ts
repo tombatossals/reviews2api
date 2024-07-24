@@ -75,7 +75,6 @@ const get_reviews = async (page: any) => {
       });
     });
 
-    console.log(new_reviews);
     reviews = reviews.concat(new_reviews);
     console.log(`Page ${count}. Fetched ${reviews.length} reviews...`);
 
@@ -129,29 +128,31 @@ const get_country = (str) => {
   return match[1];
 }
 
-const format_reviews = (reviews) => reviews.map(({ title, name, datestr, stars }) => ({
+const format_reviews = (reviews) => reviews.map(({ title, name, datestr, stars, review }) => ({
   title,
   name,
   date: get_date(datestr),
   country: get_country(datestr),
-  stars
+  stars,
+  review
 }));
 
 const collect = async (asin: string = "B07T8FF784") => {
   const page = await get_page();
   const url = `https://www.amazon.es/gp/product/${asin}`;
   await page.goto(url);
-  // await delay(15000);
+  // await delay(35000);
+  //const cookies = await page.cookies();
+  //await fs.writeFileSync(path.join(__dirname, `cookies.json`), JSON.stringify(cookies, null, 2));
 
   const title = await get_title(page);
   const image = await get_image(page);
   const reviews1 = await get_reviews(page);
   const reviews = format_reviews(reviews1);
 
-  fs.writeFileSync(`../json/${asin}.json`, JSON.stringify({ title, image, asin, url, reviews }, null, 2));
+  fs.writeFileSync(path.join(__dirname, `../nextjs/public/api/products/${asin}.json`), JSON.stringify({ title, image, asin, url, reviews }, null, 2));
 
-  const cookies = await page.cookies();
-  await fs.writeFileSync(path.join(__dirname, `../nextjs/public/api/products/${asin}.json`, JSON.stringify(cookies, null, 2));
+  //await fs.writeFileSync(path.join(__dirname, `cookies.json`), JSON.stringify(cookies, null, 2));
   await page.browser().close();
 };
 

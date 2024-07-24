@@ -9,700 +9,800 @@
       "name": "Cristian",
       "date": "2024-07-10T22:00:00.000Z",
       "country": "",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "Disfraz espectacular, se compró para un desfile de disfraces pero seguro que se va a aprovechar en muchas otras ocasiones, bien de tamaño y el inflado"
     },
     {
-      "title": "Caro pero hace su función",
-      "name": "Tuonella",
-      "date": "2019-09-24T22:00:00.000Z",
+      "title": "Excelente",
+      "name": "Reinaldo Quintero",
+      "date": "2024-07-20T22:00:00.000Z",
       "country": "",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "Excelente producto"
     },
     {
       "title": "Decepción por la cantidad de fallos",
       "name": "Emilio Herrero Santos",
       "date": "2019-08-14T22:00:00.000Z",
       "country": "",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "El producto en sí está bien, pero en mi caso la calidad brilla por su ausencia, nada más abrirlo se salió la cremallera, la metí y la cosí para que no se saliera, me pongo el traje y veo que la costura no estaba bien hecha y tenía una abertura de 15 cm en una pata, como no podía devolverlo porque lo necesitaba para un desfile y no me daba tiempo a cambiarlo por otro decidí coserlo, mi sorpresa fue que al ponérmelo se caía el ventilador, y lo tuve que apañar con una cuerda, y al buscar me di cuenta que le faltaba una pieza que enrosca en el ventilador para que no se caiga"
     },
     {
       "title": "Inflado defectuoso",
       "name": "Enrique Zambrano",
       "date": "2023-08-05T22:00:00.000Z",
       "country": "",
-      "stars": "2,0"
+      "stars": "2,0",
+      "review": "Utilizamos el disfraz para una despedida de soltero y al ponérselo no inflaba debido a que el ventilador venia defectuoso.Las aspas del ventilador no estaban bien acopladas al motor por lo que no hacia aire suficiente y no inflaba.Por suerte y tras un rato conseguimos arreglarlo desmontándolo he ingeniándonoslas para que se acoplaran bien las aspas, utilizando pegamento de contacto, cinta adhesiva…etc.Creo que deberían mejorar esa parte tan importante del disfraz."
+    },
+    {
+      "title": "Caro pero hace su función",
+      "name": "Tuonella",
+      "date": "2019-09-24T22:00:00.000Z",
+      "country": "",
+      "stars": "5,0",
+      "review": "No cierra del todo bien por cara y brazos, nosotras lo cerramos con unas pinzas para que no se escapara el aire y funcionó. Hubo que cambiar las pilas durante 4 horas de uso. Por lo demás, muy bien y muy divertido"
     },
     {
       "title": "genial",
       "name": "Manuel",
       "date": "2021-10-19T22:00:00.000Z",
       "country": "",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "Cumpleaños de niños. Les entusiasmó."
     },
     {
       "title": "Disfraz perfecto",
       "name": "Manu",
       "date": "2019-07-07T22:00:00.000Z",
       "country": "",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "Muy buena calidad. Aguantó 8 o 10 horas de copas, pisotones y bailes. Pilas 4 de 1.5v poner buenas pilas porque si no se agotan rápido."
     },
     {
       "title": "Exactamente igual a la imagen",
       "name": "Cliente Amazon",
       "date": "2019-07-29T22:00:00.000Z",
       "country": "",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "Exactamente igual a la imagen"
     },
     {
       "title": "Facilidad de montaje",
       "name": "Pablo Suárez Molina",
       "date": "2023-12-02T23:00:00.000Z",
       "country": "",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "Muy buen producto con buena resistencia de materiales, recomendable 100%"
     },
     {
       "title": "Billiges Ding",
       "name": "Malle",
       "date": "2024-04-24T22:00:00.000Z",
       "country": "Alemania",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "Das Teil ist nach einmal benutzen bei der Mottowoche kaputt gegangen. 5 Sterne hat es sich somit verdient."
     },
     {
       "title": "Great",
       "name": "JAMES TURNPENNEY",
       "date": "2020-04-22T22:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "Looks just like the photos, loved it.  The dinosaur costume was a big hit.  It was very warm inside, you want to wear as little as possible inside (just undies preferably!), but its worth it.  I'm 6 feet and always a little nervous of things like this not fitting, but it was fine."
     },
     {
       "title": "My son loved it",
       "name": "Sahra Schokohmand",
       "date": "2024-03-07T23:00:00.000Z",
       "country": "",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "Great outfit for a dinosaur theme party. My son had so much fun"
     },
     {
       "title": "Top laurea",
       "name": "Andrea",
       "date": "2024-04-27T22:00:00.000Z",
       "country": "Italia",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "perfetto per una laurea"
     },
     {
       "title": "perfect",
       "name": "Freddy",
       "date": "2023-10-17T22:00:00.000Z",
       "country": "los Estados Unidos",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "absolutely hilarious! not super comfortable, but that is to be expected. very stable, and great for the money."
     },
     {
       "title": "A very bad product",
       "name": "Tatiana",
       "date": "2024-03-28T23:00:00.000Z",
       "country": "Francia",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "The pump has broken the day after I received it very bad quality"
     },
     {
       "title": "It's big. It's bad. It flippin rules.",
       "name": "Allison",
       "date": "2022-10-24T22:00:00.000Z",
       "country": "los Estados Unidos",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "A bit hard to sit down, but with dumps like a truck, you won't need to sit!"
     },
     {
       "title": "Excellent  10/10",
       "name": "Darren Winstone",
       "date": "2022-07-19T22:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "Little tight around the neck. But all in all perfect fit"
     },
     {
       "title": "Produit de très mauvaise qualité",
       "name": "Margot",
       "date": "2019-10-20T22:00:00.000Z",
       "country": "Francia",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "Le déguisement n’est pas du tout conforme a la description. J’ai commandé 2 costumes, l’un a un problème de vis et n’est donc pas utilisable et le second ne se gonfle pas.Je suis extrêmement déçu et ne recommande en aucun cas ce costume."
     },
     {
       "title": "Molto divertente!",
       "name": "Ruben",
       "date": "2024-02-21T23:00:00.000Z",
       "country": "Italia",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "Esperienza positiva: costume grande e simpatico, adatto a eventi all'aperto. Necessita che la ventola resti costantemente in funzione, io l'ho tenuta accesa per circa 3 ore e non si è scaricata. Consigliato"
     },
     {
       "title": "10/10 Preis Leistung",
       "name": "Dominik Brüssel",
       "date": "2023-02-21T23:00:00.000Z",
       "country": "Alemania",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "Tolles Kostüm, was länger hält als Gedacht"
     },
     {
       "title": "Great costume",
       "name": "Amazon Customer",
       "date": "2022-06-20T22:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "4,0"
+      "stars": "4,0",
+      "review": "This is exactly how it looks. It's only just arrived so has only been tried on so far. The head is the trickiest but once you get it, then it's not so bad. Don't try and put it all over your head as it won't fit. It's not meant to be that way. This was for my son and he's happy with it so that's all that matters. It's big though!"
     },
     {
       "title": "Sehr schlecht",
       "name": "AnonymDe",
       "date": "2024-02-06T23:00:00.000Z",
       "country": "Alemania",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "Es dauert bis zu 20 Minuten, bis Luft reinkommt und der Ventilator ist Sau schlecht. Der Kopf vom dino ging selbst nach 30 Minuten nicht hoch.Null von 5 Sterne"
     },
     {
       "title": "Pacco batterie con pezzi mancanti e ventola rotta 10 secondi dopo l’accensione, veramente pessimo",
       "name": "Lorenzo",
       "date": "2023-03-22T23:00:00.000Z",
       "country": "Italia",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "Non funzionante con pezzi mancanti e ventola che si è rotta in una decina di secondi , veramente veramente pessimo prodotto"
     },
     {
       "title": "Too small",
       "name": "Farb",
       "date": "2023-11-22T23:00:00.000Z",
       "country": "los Estados Unidos",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "Did not fit my head and had to slouch to get arms in. With the fan on it did get warm enough to not need layers, cheaper build than others and easily tore so not worth the lower cost. The costume does look awesome and got a ton of laughs but the colors were muted and the complicated entry didn’t make it worth keeping."
     },
     {
       "title": "AWFUL",
       "name": "Jay",
       "date": "2024-04-09T22:00:00.000Z",
       "country": "",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "Arrived ripped!! So disappointed! Bought it for my girlfriend who is 5 foot 9 and it's WAY too small. DO NOT BUY!!!"
     },
     {
       "title": "Funny aber leider nicht für lange",
       "name": "Jana",
       "date": "2023-08-28T22:00:00.000Z",
       "country": "Alemania",
-      "stars": "3,0"
+      "stars": "3,0",
+      "review": "ein lustiges Kostüm aber leider ist der Ventilator nicht so fähig und ist bei uns schnell kaputt gegangen"
     },
     {
       "title": "Cute! But small head space",
       "name": "brittany johnson",
       "date": "2022-11-24T23:00:00.000Z",
       "country": "los Estados Unidos",
-      "stars": "4,0"
+      "stars": "4,0",
+      "review": "Pros: Everyone loved the costume! It was hilarious, cute and inflated within minutes. I didn’t have any issues with my zipper like other people mentioned. There’s also a pocket for your phone or keys!Con: the space that you have to fit your head through is EXTREMELY small with no stretch. Your head has to go through the first hole and go around your neck so that the costume can inflate. You can’t cut it or else it won’t work. I have locs (attached a second photo for reference) and we struggled to get my head and hair through the first hole. We ended up putting my hair in a high ponytail at the very top of my head and pulling the ponytail through FIRST instead of trying to pull it down over my hair. The pull down method did not work. There was no stretch. Once I got my hair through the hole I was able to slide it down with no problem. Well, it was still a little tight but with help we got it on!Overall great costume for the cost. Just be aware that if you have big hair, braids, locs etc you’ll have to do some maneuvering to get your head through the tiny hole. Worth it though for the laughs."
     },
     {
       "title": "Quality control is rubbish",
       "name": "Mason",
       "date": "2023-10-26T22:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "I ordered this for a Halloween party to find out the day before they can’t even be bothered to build the battery pack properly and clearly the quality control was asleep when they checked this product"
     },
     {
       "title": "Perfetto per la festa di laurea!",
       "name": "ELENA CIANCOLINI",
       "date": "2023-07-30T22:00:00.000Z",
       "country": "Italia",
-      "stars": "4,0"
+      "stars": "4,0",
+      "review": "Perfetto per la festa di laurea! Unica cosa, da evidenziare che per mettere le pile serve un cacciavite, per il resto top, e super divertente"
     },
     {
       "title": "Pretty good but with flaws.",
       "name": "Simon",
       "date": "2023-11-30T23:00:00.000Z",
       "country": "",
-      "stars": "4,0"
+      "stars": "4,0",
+      "review": "I loved going out in it. It was great fun but the zipper is in a different position than what's advertised here. It has a vertical zipper that you can't reach all the way from the inside, the advertised one has a waist zipper so you would be able to get in alone. Other than that it was great."
     },
     {
       "title": "Cute and as advertised!",
       "name": "Christine M. Hillman",
       "date": "2023-10-21T22:00:00.000Z",
       "country": "los Estados Unidos",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "I thought the face hole was too small at first, but it was all just in the technique. I tied the back legs into a knot to look like flippers and I went as Nessie the Loch Ness monster!"
     },
     {
       "title": "worth the money!!",
       "name": "Robyn Dwyer",
       "date": "2020-10-31T23:00:00.000Z",
       "country": "",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "great item, thick material, love the  deep outside pocket to hold cellphone or whatever you'd like. kinda weird to get your neck thru but once you figure it out its comfortable. only one con, has a hard time staying fully inflated in cold weather, it was -10C here for halloween and kept slightly deflating due to cold temps. Overall good buy, price is right."
     },
     {
       "title": "Vielen Dank für die problemlose Rückabwicklung",
       "name": "Jana Engelbrecht",
       "date": "2024-03-26T23:00:00.000Z",
       "country": "Alemania",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "Hat leider nicht gepasst, aber die Rücksendung lief ohne Probleme ab und Geld schnell zurück bezahlt. Sehr gerne wieder"
     },
     {
       "title": "essere un dinosauro con stile",
       "name": "pierernesto pagani",
       "date": "2019-03-04T23:00:00.000Z",
       "country": "Italia",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "sono appassionato di costumi gonfiabili, ne ho parecchi e diciamo che con questo sono andato davvero sull'extralarge.sono alto 1e85 e la testa del diplodoco arriva a 2e60, anche per il lungo è sui 2 metri e mezzo. insomma ok per sfilate o spazi aperti.avevo paura che avendo una ventola sola si tendesse a sgonfiare invece il ventolino ha una bella prevalenza e una volta tanto non è di colore arancione che fa perdere un po la poesia del costume ma in plastica trasparente, anche il vano per le batterie è più piccolo (sempre 4 AA non incluse) e sul costume è ricavata una tasca per alloggiarle il che è moolto meglio che tenersi in tasca la roba.nella parte frontale esterna del costume ha una tasca chiudibile con velcro, dimensione sufficiente per uno smartphone o un piccolo portafoglio.per indossarlo è consigliato l'aiuto di qualcuno."
     },
     {
       "title": "Great costume",
       "name": "Zaneta",
       "date": "2021-10-25T22:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "3,0"
+      "stars": "3,0",
+      "review": "Great costume good fun but within  an hour of first use the battery pack stopped working and it started to go down. AS I was happy with purchase unfortunately I'd already thrown away the packaging. Wires on battery pack have gone loose from it dropping inside the costume."
     },
     {
       "title": "First neck hole too small!",
       "name": "Bruce",
       "date": "2024-05-06T22:00:00.000Z",
       "country": "",
-      "stars": "3,0"
+      "stars": "3,0",
+      "review": "The first neck hole is too small to get an adult or 12 year olds head through. Can not form seal then and does not properly inflate. There is no option increasing the size of the neck hole.  Disappointing purchase."
     },
     {
       "title": "100% what I expected and more!",
       "name": "Bradleigh Campbell",
       "date": "2022-10-16T22:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "No se ha podido cargar el contenido multimedia.\n                \n            \n                \n            \n            \n        \n    \n    \n\n\n\n\n\n\n\n\n  \n    Bought this as a fancy dress for stag do. It looks even better than pictured and is one hell of a show stopper 😁 material quality is spot on especially for the price! Would highly recommend this product 👌"
     },
     {
       "title": "Dura 10 minuti",
       "name": "Cliente Amazon",
       "date": "2024-06-07T22:00:00.000Z",
       "country": "Italia",
-      "stars": "2,0"
+      "stars": "2,0",
+      "review": "Bellissimo costume, peccato che dopo 10 minuti la ventola ha smesso di funzionareFesta rovinata"
     },
     {
       "title": "Best costume ever!",
       "name": "Relark",
       "date": "2024-02-05T23:00:00.000Z",
       "country": "los Estados Unidos",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "I mean what more does a person need than a giant inflatable dinosaur costume!? The neighborhood kids loved it!"
     },
     {
       "title": "Kopf passt nicht durch die Öffnung 😕",
       "name": "Kaiser Nero",
       "date": "2023-06-08T22:00:00.000Z",
       "country": "Alemania",
-      "stars": "2,0"
+      "stars": "2,0",
+      "review": "Also davon ausgegangen, dass der Ventilator erstmal aufgeschraubt werden musste damit ich die Schaufel wieder auf die narbe setzen kann. Und dann bemerkt wurde das ich mit meinem Kopf nicht durch die Öffnung Pass( Standard Kopf...Ohren,Nase,Mund,harre) ärgerlich... Also zurück."
     },
     {
       "title": "Nen dino halt",
       "name": "Jan",
       "date": "2023-08-18T22:00:00.000Z",
       "country": "Alemania",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "War lustig"
     },
     {
       "title": "Didn't work for us...",
       "name": "Alicia Trodahl",
       "date": "2022-10-22T22:00:00.000Z",
       "country": "los Estados Unidos",
-      "stars": "2,0"
+      "stars": "2,0",
+      "review": "I bought this costume for my 12 year old daughter. She's 5'8. The head hole is too small. The circle opening where the fan is supposed to sit/be held was torn/maybe used prior to us & wouldn't hold/support the fan---thus the costume wouldn't inflate. Had to return it."
     },
     {
       "title": "Fab fun (for men/ tall people!)",
       "name": "Ode2Joy",
       "date": "2022-08-12T22:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "Easy to put on and off and cool to wear (depending on how much dancing you do 😆) this is a fun costume for tallish men (not short men or average height women). Love it!"
     },
     {
       "title": "Fan fail",
       "name": "Rgillis11",
       "date": "2023-10-28T22:00:00.000Z",
       "country": "los Estados Unidos",
-      "stars": "3,0"
+      "stars": "3,0",
+      "review": "The fan failed after 4 hours. Had to pay another 20 bucks for a replacement fan on here which was way better an inflated the whole costume. It made the fan that came with it look like a piece of crap. It’s a lot of money for just a bunch of plastic expecting more paying that much money."
     },
     {
       "title": "Amazing. Worth every penny.",
       "name": "Alfie Toler",
       "date": "2019-07-28T22:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "I wore this to school for my end of year party. Throughout the entire thing despite the back legs being slightly dragged across the floor, they didn't break. The only input the costume needs is batteries which is easy enough to do. The only thing that got me a bit confused was the head hole. You basically have to put your head through both holes then move back through the outermost one so the lining. Goes under your chin and above your head. This costume got many laughs and many people asked where I got it from. Again, worth every penny."
     },
     {
       "title": "Den Preis nicht wert",
       "name": "Sam",
       "date": "2023-07-30T22:00:00.000Z",
       "country": "Alemania",
-      "stars": "3,0"
+      "stars": "3,0",
+      "review": "Schönes Kostüm.Leider aber Teuer und nur Batterie betrieben."
     },
     {
       "title": "Conforme et livraison dans le délais",
       "name": "Ad",
       "date": "2023-10-27T22:00:00.000Z",
       "country": "",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "Excellent rapport/qualité prix"
     },
     {
       "title": "Great costume with one drawback",
       "name": "Amazon Customer",
       "date": "2023-12-29T23:00:00.000Z",
       "country": "",
-      "stars": "3,0"
+      "stars": "3,0",
+      "review": "Exactly as advertised but the hole for your head is very small. We had to modify it to get the costume on."
     },
     {
       "title": "Super cute",
       "name": "Amazon Customer",
       "date": "2023-03-29T22:00:00.000Z",
       "country": "",
-      "stars": "3,0"
+      "stars": "3,0",
+      "review": "It's super cute! But fits really tight for a mens ... unless your a petit man ... arms and face opening seem pretty tight but I guess air needs to stay in so not sure how this could be resolved. The one issue is you cannot get into or out of costume on your own with zipper in the back, and the control for fan is inside outfit but your hands and arms are not so turning on and off is an issue too .... so don't go out alone and careful how much you drink 🤣🤣🤣"
     },
     {
       "title": "Kopf Öffnung viel zu klein",
       "name": "Torben Peppel",
       "date": "2023-10-25T22:00:00.000Z",
       "country": "Alemania",
-      "stars": "3,0"
+      "stars": "3,0",
+      "review": "Ansicht nen schönes Kostüm bestellt und fix geliefert leider festgestellt das die Öffnung für den Kopf viel zu klein ist welcher Mensch hat so einen kleinen Kopf? daher wieder zurück"
     },
     {
       "title": "Fan stopped working on Halloween when I needed it!",
       "name": "CheyChey",
       "date": "2023-10-31T23:00:00.000Z",
       "country": "",
-      "stars": "2,0"
+      "stars": "2,0",
+      "review": "I loved the costume overall-  how big it is and fun- the colour is grey, and too tight around the neck, it’s rather choking on the neck and not comfortable there(and I am not a big person). I tried it out a few times and it was ok to wear for a little while- However on Halloween eve the fan stopped working and I didn’t get to wear it then!"
     },
     {
       "title": "180cm - too tall",
       "name": "Mr. Thomas C. Neilson",
       "date": "2022-06-11T22:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "4,0"
+      "stars": "4,0",
+      "review": "Everything about the product was fine, except that I am too tall to actually wear it. If I were 5’9 I’d prob be fine for the outer face hole to be round my face, being 5’11 the top of the face hole was around the bridge of my nose. Disappointed but, hey ho"
     },
     {
       "title": "Zipper trouble",
       "name": "Fred.kel",
       "date": "2022-01-23T23:00:00.000Z",
       "country": "los Estados Unidos",
-      "stars": "3,0"
+      "stars": "3,0",
+      "review": "Our family, kids especially had such a fun time watching my husband parade around on Halloween in his dino costume. The only reason I'm giving this costume a 3 star is because we returned it once because the zipper fell apart. The costume can't hold it air when the zipper isn't able to zip up properly. This happen the first time we were took the costume off. Thankfully this happened before Halloween. We exchanged the item for the exact same costume. We thought the first was just a defect. The night of Halloween we all got dressed up the costume was a hoot for all. Unfortunately- the exact same problem happened again! It was the first time I was helping him out of his costume. My husband is not a big man at all. He's 6'1 and 180lbs. I would recommend the manufacturer to use better zippers than the cheap ones they are using. Because now we aren't able to use the costume again. It was a one time wear deal, which is really unfortunate- especially because of the price we spent on it. Overall it was a fun time, but worth letting the next person know exactly what they are purchasing."
     },
     {
       "title": "Too small for me but great quality",
       "name": "Zac",
       "date": "2022-12-04T23:00:00.000Z",
       "country": "los Estados Unidos",
-      "stars": "4,0"
+      "stars": "4,0",
+      "review": "I'm 6'2 so I knew going into this that it would be too small for me, I'd say anyone over 5'10 should be prepared for that. What I was not prepared for was the reduced visibility and how hard it was to hear. The way it inflates around your head presses on your ears and face making it harder to see or hear, it's not entirely miserable but you should be aware of that. Overall the costume was great, it felt like a high quality material and more importantly my daughter (as well as every other child that saw us trick-or-treat) absolutely loved it."
     },
     {
       "title": "Le trou de la tête est tellement petit que même un enfant laTête ne passe pas!",
       "name": "Dana Vigneault",
       "date": "2024-06-25T22:00:00.000Z",
       "country": "",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "Size non réaliste"
     },
     {
       "title": "Hardly for an adult",
       "name": "Charlotte",
       "date": "2022-08-08T22:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "2,0"
+      "stars": "2,0",
+      "review": "We kinda knew the legs were going to be too short and we had prepared for that. However getting a 6ft guy into this costume shouldn't have been so difficult. In the end he couldn't actually wear it because his head wouldn't fit through the head hole which we understood would be small due to holding in the air but it could have been elasticated similar to arms and legs but no. If we tried any harder to get his head through it would have ripped and he has quite a small head. Doesn't really look as good as the pictures and just overall very disappointed."
     },
     {
       "title": "I wanted to love it so bad!",
       "name": "Morris",
       "date": "2022-10-26T22:00:00.000Z",
       "country": "los Estados Unidos",
-      "stars": "3,0"
+      "stars": "3,0",
+      "review": "I’m so bummed that it didn’t work out for us!! I loooove any long neck Dino and was so excited to have my husband wear this for Halloween since the rest of our family is all wearing different dino costumes too but sadly, we had to return it. The poor man could hardly squeeze his head through the head hole and the arm holes made him appear like he had the biceps of a professional bodybuilder! (He’s 6’ 1” and average build) Although it provided a solid 30 mins of pure comedy watching him try to get it in and off, it wouldn’t work for a night of moving around and I’m sure he’d be ready to cut it off by the end of the night."
     },
     {
       "title": "I liked it was good , air Escaped a little out it but all in all was good costume",
       "name": "Travis best",
       "date": "2022-11-07T23:00:00.000Z",
       "country": "",
-      "stars": "4,0"
+      "stars": "4,0",
+      "review": "Was a good costume"
     },
     {
       "title": "OK and funny - but sizing more limited than \"up to 6' 2\"",
       "name": "Elmo Puffinburger",
       "date": "2021-10-17T22:00:00.000Z",
       "country": "los Estados Unidos",
-      "stars": "3,0"
+      "stars": "3,0",
+      "review": "Purchased for my brother.  He is 6'2\", 210lbs.  He's going to use the costume, but there are some sizing issues for it. Based off fit, we wouldn't order again and I would say you shouldn't either if you are over >= 6'. Or if you consider your build athletic to big, I wouldn't order either. It looks like the sleeve/shoulder area is very tight and the elastic is stretched vey tight around his arms.  In addition, there are two holes in the head area. One is for your face, the other is inside and goes around the neck to seal in air. The neck hole is elastic with velcro, but my brother had to tear it a bit to fit over his head. It will seal enough to mostly allow inflation, but the dinosaur head will dip as it doesn't \"pressurize\" enough.  We think if he uses tape to seal the small tear it will fully inflate (shown in pic holding tear closed)."
     },
     {
       "title": "Suffocating.",
       "name": "Jacob",
       "date": "2023-10-27T22:00:00.000Z",
       "country": "",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "Feels as if you are pulling a plastic bag over your face. The costume will make you sweat bullets even with minimal movement. The head doesn't inflate correctly so the whole thing droops and sits over your eyes and nose. Couldn't even make it out of the house with how intense the sweat and smells got in just the time it took to put the costume on."
     },
     {
       "title": "Not the best of quality",
       "name": "Robert Desmond",
       "date": "2021-12-19T23:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "3,0"
+      "stars": "3,0",
+      "review": "Great costume but poorly made. Zip broke and the stitching came undone plus the batteries didn’t last for anywhere near the 4 hours that was claimed they would."
     },
     {
       "title": "Amusing but snug",
       "name": "Katherine",
       "date": "2022-04-06T22:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "3,0"
+      "stars": "3,0",
+      "review": "Works well and is impressive when inflated but would only fit the smaller adult!"
     },
     {
       "title": "Not for adults",
       "name": "Godzilla-Killa",
       "date": "2022-01-07T23:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "3,0"
+      "stars": "3,0",
+      "review": "This would perhaps fit someone who has a small head at about 5'3 or 5'4. Its not made for adults."
     },
     {
       "title": "Fun for like 1 second",
       "name": "Tia Petts",
       "date": "2022-05-19T22:00:00.000Z",
       "country": "los Estados Unidos",
-      "stars": "3,0"
+      "stars": "3,0",
+      "review": "Cheap zipper broke after trying to unzip; the sewing seam was done too close and the material got caught in the zipper which caused it to jump off its track. Grr... Going to see if I can fix it. Costume is not made for tall people!! I really wish the feet were enclosed instead of just exposed. People got a hoot out of this and honked at me. I really really loved this, even for the 1 second. Whimsy is a must in today's world!"
     },
     {
       "title": "This item worked once and that was all 😠😠😠😠😠",
       "name": "Darla",
       "date": "2021-10-31T23:00:00.000Z",
       "country": "",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "As soon as I opened it and tryed it on it worked for a little bit but was smoking and hot were the fan and battery pack is. Decided to try one more time a different day and it worked it blew up it wasn't smoking or anything it wasn't hot it lasted maybe an hour or two so we thought everything was good and we turned it off. So Halloween came we decided to try it then nothing it wouldn't turn on at all new batteries and everything I'm very upset and I'm going to send this product back and I'd like my money back I recommend no one buy it."
     },
     {
       "title": "Quality - Caution",
       "name": "Suzanne Russell",
       "date": "2022-10-29T22:00:00.000Z",
       "country": "los Estados Unidos",
-      "stars": "3,0"
+      "stars": "3,0",
+      "review": "Really fun costume, but watch out for the quality.  I purchased this for my son. I followed the directions and right out of the bag, I found two holes in the seams.  It was not sewed together well.  Luckily I sew and have a heavy duty sewing machine.  Easy fix for me, but not likely for others."
     },
     {
       "title": "Prepare to be very sweaty in there!",
       "name": "Richard P",
       "date": "2019-08-19T22:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "4,0"
+      "stars": "4,0",
+      "review": "Great costume but super hot inside there!It got some good laughs before the tail was stood on by accident and the seems stretched and it was unable to hold the air inside after that."
     },
     {
       "title": "Incredible",
       "name": "Max brown",
       "date": "2023-10-22T22:00:00.000Z",
       "country": "los Estados Unidos",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "Great value looks great fits perfect (im 6ft 2in) little bit tight on arm movement and you can't sit but everything I could have wanted"
     },
     {
       "title": "I'm 5'10\", 270 pounds, and for the most part, it fit me.",
       "name": "David H.",
       "date": "2021-05-13T22:00:00.000Z",
       "country": "los Estados Unidos",
-      "stars": "4,0"
+      "stars": "4,0",
+      "review": "The wearer's head setup was a little difficult to seal. I wish there were a way to make the human arms invisible? Don't get me wrong. We just placed an Apotasour femur in our museum, and wore this and other dino's, for immense fun. You should have seen the face of the 4 year old that got a ride on the dino back.No regrets"
     },
     {
       "title": "Good product",
       "name": "Michael Lambert",
       "date": "2022-09-19T22:00:00.000Z",
       "country": "los Estados Unidos",
-      "stars": "4,0"
+      "stars": "4,0",
+      "review": "Good product and was fun. Only down side was that the head hole isn’t large enough to put a adult males head in it."
     },
     {
       "title": "Worked for five minutes",
       "name": "drkraver",
       "date": "2024-06-21T22:00:00.000Z",
       "country": "los Estados Unidos",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "The fan fell apart before reaching the party. Junk. Very disappointing. Plus the hole for the face was so tight it hurt to put on."
     },
     {
       "title": "Dinosaur hunt",
       "name": "Amazon Customer",
       "date": "2020-01-15T23:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "4,0"
+      "stars": "4,0",
+      "review": "As my photo shows, this was the greatest gift for my 2 year old newphew on his dinosaur hunt"
     },
     {
       "title": "This is the best!",
       "name": "Dave",
       "date": "2023-11-12T23:00:00.000Z",
       "country": "los Estados Unidos",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "Great dad costume! Kids loved it!"
     },
     {
       "title": "Costume abîmé et usagé",
       "name": "Maïa Girard",
       "date": "2021-11-01T23:00:00.000Z",
       "country": "",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "J'ai reçu un costume qui était usagé et lorsque j'ai mis les batteries, la pompe a explosé et rien n'a fonctionné. Je suis réellement déçue et plus jamais je n'achète avec la compagnie du costume. De plus, le costume n'était même pas plier et en \"motton\" dans le sac, donc raison de plus de savoir qu'il était . La  était grafignée, donc grosse déception!"
     },
     {
       "title": "Tricky",
       "name": "ravinia b.",
       "date": "2023-10-28T22:00:00.000Z",
       "country": "los Estados Unidos",
-      "stars": "2,0"
+      "stars": "2,0",
+      "review": "Took a minute to get it on  legs didn't blow up all the way the head also needs a little more air in this suit"
     },
     {
       "title": "Fun costume.  Makes a great partner with the blow up T-Rex costume",
       "name": "Amazon Customer",
       "date": "2022-03-14T23:00:00.000Z",
       "country": "los Estados Unidos",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "Easy to put on and use.  It takes a little while for the costume to inflate, but give it time.  Once it's fully inflated you'll have a blast playing around in it. The only drawback is that it doesn't have a built-in pocket to hold the battery pack.  Make sure what you're wearing underneath the costume has a pocket to hold the battery pack"
     },
     {
       "title": "DO NOT BUY",
       "name": "Ben_Jervis",
       "date": "2022-03-31T22:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "This product is the absolute worst, DO NOT BUY. I spent £40 on the product for my child’s birthday. The battery compartment to allow inflation is broken, in the most ridiculous way possible, the suit will not fit you as the face hole is non adjustable. I beg you not to buy this product, it is cheap and insanely poorly manufactured to the point it is totally unusable. DO NOT BUY"
     },
     {
       "title": "Fantastic, make sure you use decent batteries",
       "name": "Ryan",
       "date": "2022-06-17T22:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "Inflates perfect, great laugh"
     },
     {
       "title": "Quality outfit!",
       "name": "Jack",
       "date": "2021-11-06T23:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "If you wanna be the best at the fancy dress party like I was, choose this costume!"
     },
     {
       "title": "Great concept too bad about design flaws",
       "name": "Amazon Customer",
       "date": "2021-10-30T22:00:00.000Z",
       "country": "",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "The spot to fit your head through was way too small. Even my seven year old couldn’t put their head through. It is a fun costume but without it fitting properly it is not really as functional or fun as it should be"
     },
     {
       "title": "Fun!",
       "name": "Weston B.",
       "date": "2021-11-25T23:00:00.000Z",
       "country": "los Estados Unidos",
-      "stars": "4,0"
+      "stars": "4,0",
+      "review": "I'm 6' tall and it was just a tad too short. 5' 10\" would be about perfect!"
     },
     {
       "title": "Nessie at loch ness",
       "name": "Wayne Salisbury",
       "date": "2021-12-06T23:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "This suit is great and was very popular in loch ness and aviemore"
     },
     {
       "title": "Très bon achat. La taille du dinosaure un fois gonflée est assez impressionnante",
       "name": "Marie-Eve",
       "date": "2021-10-06T22:00:00.000Z",
       "country": "",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": ""
     },
     {
       "title": "Hole for head stupidly small",
       "name": "etienne messier",
       "date": "2022-11-02T23:00:00.000Z",
       "country": "",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "Even with a small head you wont fit"
     },
     {
       "title": "Such an awesome costume",
       "name": "Ed",
       "date": "2022-10-19T22:00:00.000Z",
       "country": "los Estados Unidos",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "It's goofy, but that's the point. I tried it on and jogged around the house and my kids were howling with laughter. Can't wait for Halloween to wear this out and about."
     },
     {
       "title": "Recommend",
       "name": "M. Cyr",
       "date": "2018-10-31T23:00:00.000Z",
       "country": "los Estados Unidos",
-      "stars": "4,0"
+      "stars": "4,0",
+      "review": "Really nice costume.  Exactly as expected.  Only complaint is that it's a little tight in the shoulder/arm region.Be careful with how long it is.  I turned around quickly and almost took out my toddler with the tail ha ha."
     },
     {
       "title": "Great costume.",
       "name": "Joseph S.",
       "date": "2022-11-18T23:00:00.000Z",
       "country": "los Estados Unidos",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "Great costume.  I'm 6'3\" 245 pounds and this dinosaur costume was awesome.  A little short on the legs but no big deal."
     },
     {
       "title": "Runs a bit small in the arms",
       "name": "Angelo Rufino",
       "date": "2020-02-18T23:00:00.000Z",
       "country": "los Estados Unidos",
-      "stars": "4,0"
+      "stars": "4,0",
+      "review": "I loved it though it was a bit too small in the arms for me so I had to return it. It did look really well done though."
     },
     {
       "title": "Not worth the purchase.",
       "name": "Braeden",
       "date": "2021-10-30T22:00:00.000Z",
       "country": "",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "Product comes with low grade inflator that does not inflate costume.Plastic fan blades that do not move when powered on."
     },
     {
       "title": "The seems are not sewn properly",
       "name": "margaret",
       "date": "2021-11-06T23:00:00.000Z",
       "country": "",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "We couldn't even use the costume as the seems were not sewn properly and there were holes it it."
     },
     {
       "title": "Thought it would be bigger",
       "name": "Melissa",
       "date": "2021-10-31T23:00:00.000Z",
       "country": "los Estados Unidos",
-      "stars": "3,0"
+      "stars": "3,0",
+      "review": "Adult costume but my husband could not put his head through. Smaller than what we thought for an adult size"
     },
     {
       "title": "Very cute",
       "name": "J Powell",
       "date": "2021-10-20T22:00:00.000Z",
       "country": "los Estados Unidos",
-      "stars": "3,0"
+      "stars": "3,0",
+      "review": "Not easy to get into and really tight around the arms and face of an average adult male."
     },
     {
       "title": "impressive, but not happy",
       "name": "Amazon Customer",
       "date": "2022-10-29T22:00:00.000Z",
       "country": "los Estados Unidos",
-      "stars": "2,0"
+      "stars": "2,0",
+      "review": "unfortunately  the one I got would not stay inflated.  I'm not sure but I think the fan isnt strong enough for the size of the product.  I will be returning it :("
     },
     {
       "title": "Dinosaurs rock!",
       "name": "Rhys Surname",
       "date": "2018-12-13T23:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "Best office fancy dress I have ever purchased. Going out for a cigarette dresssd like this next to the probation office in Hereford was the highlight of my day."
     },
     {
       "title": "Speedy but flimsy",
       "name": "John alessio",
       "date": "2019-10-02T22:00:00.000Z",
       "country": "los Estados Unidos",
-      "stars": "3,0"
+      "stars": "3,0",
+      "review": "I like how quickly it came to my door after purchase but I was disappointed with how flimsy the material is. I had a hole RIP in my first attempt on putting the morph suit on"
     },
     {
       "title": "Awesome",
       "name": "Chris",
       "date": "2020-08-22T22:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "Awesome suit made my 3 yrd old son's birthday a lot of fun when I wore it"
     },
     {
       "title": "Broke after first wear",
       "name": "Candyce Reynolds",
       "date": "2023-07-09T22:00:00.000Z",
       "country": "los Estados Unidos",
-      "stars": "2,0"
+      "stars": "2,0",
+      "review": "The zipper broke after the first wear. It does not last long"
     },
     {
       "title": "10/10 a good time",
       "name": "Lindsay",
       "date": "2022-11-03T23:00:00.000Z",
       "country": "los Estados Unidos",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "No se ha podido cargar el contenido multimedia.\n                \n            \n                \n            \n            \n        \n    \n    \n\n\n\n\n\n\n\n\n  \n    Such a great deal and quality. Wore 3 times and had no problems with ripping or anything."
     },
     {
       "title": "Nice quality but small head opening",
       "name": "Samantha",
       "date": "2021-07-06T22:00:00.000Z",
       "country": "los Estados Unidos",
-      "stars": "2,0"
+      "stars": "2,0",
+      "review": "Very nice quality. Love that there is an outside pocket, because what diplodocus doesn't need a pocket for their phone and keys?? There is also a nice pocket inside to hold the battery pack. One big downfall is that the opening for the head is VERY small. It would not go over either my 13-year old or 16-year old's heads... and yes, I opened the velcro."
     },
     {
       "title": "Doesn’t work!",
       "name": "Alice",
       "date": "2021-12-26T23:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "1,0"
-    },
-    {
-      "title": "Ventilator auf Dauer zu schwach",
-      "name": "Echo",
-      "date": "2019-03-05T23:00:00.000Z",
-      "country": "Alemania",
-      "stars": "2,0"
+      "stars": "1,0",
+      "review": "Tried 4 different types of batteries, does not work. No option to contact seller. Really disappointed. Can’t easily return as sent on to family in Australia."
     }
   ]
 }

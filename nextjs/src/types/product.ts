@@ -1,9 +1,19 @@
+export interface Review {
+    title: string;
+    stars: string;
+    date: string;
+    country: string;
+    name: string;
+    review: string;
+}
+
 export interface Product {
     asin: string;
     title: string;
     image: string;
     url: string;
     num_reviews: number;
+    reviews: Review[] | null;
     stars: number;
 }
 

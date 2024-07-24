@@ -9,63 +9,72 @@
       "name": "John roberts",
       "date": "2021-02-17T23:00:00.000Z",
       "country": "Reino Unido",
-      "stars": "4,0"
+      "stars": "4,0",
+      "review": "Does the  job  a bit of a laugh  in the bathroom 🤭🤭🤭"
     },
     {
       "title": "Bestes Geschenk ever!",
       "name": "Ariane",
       "date": "2021-02-04T23:00:00.000Z",
       "country": "Alemania",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "Meine Schwester hat sich sehr über dieses Geburtstagsgeschenk gefreut. Endlich hat der President ein Amt inne, das ihm gerecht wird!"
     },
     {
       "title": "très intéressant",
       "name": "zhang",
       "date": "2020-11-19T23:00:00.000Z",
       "country": "Francia",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "C’est tellement intéressant. Sa valeur artistique va au-delà de l’utilisation en elle-même. Vous pouvez l’offrir à vos amis en cadeau. Hahahaha Êtes-vous gêné d’utiliser ce papier toilette ? Livraison rapide et bonne qualité"
     },
     {
       "title": "Keine ahnung",
       "name": "Gailgodd",
       "date": "2021-01-21T23:00:00.000Z",
       "country": "Alemania",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "Meine Freundin hat das jemand geschenkt.Lieferung war in Ordnung."
     },
     {
       "title": "Lustig",
       "name": "Dieter Thelen",
       "date": "2020-01-29T23:00:00.000Z",
       "country": "Alemania",
-      "stars": "4,0"
+      "stars": "4,0",
+      "review": "Ist genau das, was beschrieben war. Okay, das Figürchen ist nur schwer als DeppenDonald zu erkennen, aber mit der Klorolle zusammen isses selbsterklärend. Kommt halt aus China und braucht damit mind. 3 Wochen. Ob es das auch mit Ji Jinping gibt...."
     },
     {
       "title": "Deko",
       "name": "Karen Brammeyer",
       "date": "2020-12-18T23:00:00.000Z",
       "country": "Alemania",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "Noch nicht benutzt, deko lustig"
     },
     {
       "title": "Lustiges Geschenk",
       "name": "Linda",
       "date": "2019-12-19T23:00:00.000Z",
       "country": "Alemania",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "Wie auf dem Bild angegeben, definitiv eine lustige Geschenkidee."
     },
     {
       "title": "unterirdisch",
       "name": "Ria Schlotmann",
       "date": "2020-08-08T22:00:00.000Z",
       "country": "Alemania",
-      "stars": "1,0"
+      "stars": "1,0",
+      "review": "billigste qualität. kamm völlig verbogen an. unbrauchbar. schrott."
     },
     {
       "title": "So ergibt Trump wenigstens einen Sinn",
       "name": "Der letzte Lude",
       "date": "2020-02-06T23:00:00.000Z",
       "country": "Alemania",
-      "stars": "5,0"
+      "stars": "5,0",
+      "review": "Lustiger Artkel"
     }
   ]
 }
