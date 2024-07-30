@@ -4,10 +4,9 @@ import { Product, Products } from "../types";
 export const runtime = "edge";
 
 const HomePage = async () => {
-  const res = await fetch(process.env.PRODUCTS_URL, {
-    cache: "no-store",
-  });
-
+  const res = await fetch(
+    `${process.env.PRODUCTS_URL}?timestamp=${new Date().getTime()}`
+  );
   let products: Product[] = [];
   if (res.headers.get("content-type")?.search("application/json") !== -1) {
     const data: Products = await res.json();
