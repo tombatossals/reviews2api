@@ -1,6 +1,5 @@
 import type { NextApiRequest, NextApiResponse } from 'next'
-import fs from "fs";
-import path from "path";
+import { NextResponse } from 'next/server';
 
 export const config = {
     runtime: "edge",
@@ -15,24 +14,15 @@ export default function handler(
     req: NextApiRequest,
     res: NextApiResponse<ResponseData>
 ) {
-    const { asin } = req.query
+    if (!req) return NextResponse.json({ message: 'No hay petición' }, { status: 400 });
 
-    const { authorization } = req.headers;
-
+    const authorization = req?.headers?.get("authorization")
     if (!authorization || !authorization.startsWith('Bearer ') || authorization.split(' ')[1] !== "hocuspocus") {
-        return res.status(401).json({ message: 'Necesitas una autorización para ver esto' });
+        return NextResponse.json({ message: 'Necesitas una autorización para ver esto' }, { status: 401 });
     }
 
-    const token = authorization.split(' ')[1];
-
-
-    const dir = path.join(__dirname, "../../../../../../public/api/products");
-    if (fs.existsSync(`${dir}/${asin}.json`)) {
-        return res.status(200).json({
-            message: 'You did it!',
-            url: `https://amazon.es/gp/product/${asin}`,
-        });
-    }
-
-    res.status(404).json({ message: `Product ${asin} not found` });
+    return NextResponse.json({
+        message: 'You did it!',
+        url: `https://amazon.es/gp/product/${asin}`,
+    }, { status: 200 });
 }
