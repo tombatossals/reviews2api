@@ -1,6 +1,8 @@
 import Card from "./components/card";
 import { Product, Products } from "../types";
 
+export const runtime = "edge";
+
 const HomePage = async () => {
   const res = await fetch(
     `${process.env.PRODUCTS_URL}?timestamp=${new Date().getTime()}`,
