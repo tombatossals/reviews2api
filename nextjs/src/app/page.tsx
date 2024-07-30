@@ -16,7 +16,7 @@ const HomePage = async () => {
   return (
     <div className="mx-12">
       <pre className="bg-yellow-100 p-4 mb-8">
-        API: curl https://reviews.micronautas.com/api/products.json
+        <b>API</b>: https://reviews.micronautas.com/api/products.json
       </pre>
       <div className="grid grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
         {products.map((product: Product) => (

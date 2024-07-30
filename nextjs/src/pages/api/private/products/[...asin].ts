@@ -2,8 +2,6 @@ import type { NextApiRequest, NextApiResponse } from 'next'
 import fs from "fs";
 import path from "path";
 
-export const runtime = "edge";
-
 type ResponseData = {
     message: string,
     url?: string,

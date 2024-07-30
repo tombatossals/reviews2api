@@ -27,8 +27,15 @@ const HomePage = async ({ params }: { params: { asin: string } }) => {
   return (
     <div className="mx-12">
       <pre className="bg-yellow-100 p-4 mb-4">
-        API: curl {process.env.PRODUCT_URL.replace("{ASIN}", params.asin)}
+        <b>API</b>: {process.env.PRODUCT_URL.replace("{ASIN}", params.asin)}
       </pre>
+      <pre className="bg-yellow-100 p-4 mb-4">
+        <b>URL de API privada</b>:{" "}
+        {process.env.PRODUCT_PRIVATE_URL.replace("{ASIN}", params.asin)}
+        <br />
+        <b>Token de autorización</b>: {process.env.PRODUCT_AUTH_TOKEN}
+      </pre>
+
       <div className="w-full flex border-t border-r border-l border-grey-light">
         <div
           className="h-48 p-2 lg:h-auto lg:w-48 flex-none bg-cover rounded-t lg:rounded-t-none lg:rounded-l text-center overflow-hidden"
