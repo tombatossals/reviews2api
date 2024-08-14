@@ -5,7 +5,9 @@ export const runtime = "edge";
 
 const HomePage = async () => {
   const res = await fetch(
-    `${process.env.PRODUCTS_URL}?timestamp=${new Date().getTime()}`
+    `${process.env.PUBLIC_BASE_URL}/${
+      process.env.PRODUCTS_URL
+    }?timestamp=${new Date().getTime()}`
   );
   let products: Product[] = [];
   if (res.headers.get("content-type")?.search("application/json") !== -1) {
@@ -16,7 +18,8 @@ const HomePage = async () => {
   return (
     <div className="mx-12">
       <pre className="bg-yellow-100 p-4 mb-8">
-        <b>API</b>: https://reviews.micronautas.com/api/products.json
+        <b>API</b>: {process.env.PUBLIC_BASE_URL}
+        {process.env.PRODUCTS_URL}
       </pre>
       <div className="grid grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
         {products.map((product: Product) => (

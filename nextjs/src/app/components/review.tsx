@@ -14,7 +14,7 @@ const Review = ({ review }: { review: ReviewType }) => {
     <div className="mb-4 mx-4 flex items-center justify-center">
       <div className="bg-white flex-1 rounded-2xl px-10 py-4 shadow-lg hover:shadow-2xl transition duration-500">
         <div className="mt-4">
-          <h1 className="text-lg text-gray-700 font-semibold hover:underline cursor-pointer">
+          <h1 className="text-lg text-gray-700 font-semibold">
             {review.title}
           </h1>
           <div className="flex mt-2">

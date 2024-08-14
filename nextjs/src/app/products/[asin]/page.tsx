@@ -13,8 +13,12 @@ const sortFechas = (reviews: ReviewType[] | undefined) => {
 
 const HomePage = async ({ params }: { params: { asin: string } }) => {
   const res = await fetch(
-    process.env.PRODUCT_URL.replace("{ASIN}", params.asin)
+    `${process.env.PUBLIC_BASE_URL}${process.env.PRODUCT_URL.replace(
+      "{ASIN}",
+      params.asin
+    )}?timestamp=${new Date().getTime()}`
   );
+
   let product: Product = {} as Product;
   if (res.headers.get("content-type")?.search("application/json") !== -1) {
     product = await res.json();
@@ -27,10 +31,11 @@ const HomePage = async ({ params }: { params: { asin: string } }) => {
   return (
     <div className="mx-12">
       <pre className="bg-yellow-100 p-4 mb-4">
-        <b>API</b>: {process.env.PRODUCT_URL.replace("{ASIN}", params.asin)}
+        <b>API</b>: {process.env.PUBLIC_BASE_URL}/
+        {process.env.PRODUCT_URL.replace("{ASIN}", params.asin)}
       </pre>
       <pre className="bg-yellow-100 p-4 mb-4">
-        <b>URL de API privada</b>:{" "}
+        <b>URL de API privada</b>: {process.env.PUBLIC_BASE_URL}/
         {process.env.PRODUCT_PRIVATE_URL.replace("{ASIN}", params.asin)}
         <br />
         <b>Token de autorización</b>: {process.env.PRODUCT_AUTH_TOKEN}
@@ -49,11 +54,8 @@ const HomePage = async ({ params }: { params: { asin: string } }) => {
           />
         </div>
         <div className="bg-white rounded-b lg:rounded-b-none lg:rounded-r p-4 flex flex-col justify-between leading-normal">
-          <div className="mb-8">
-            <a
-              href={`https://amazon.es/gp/product/${product.asin}`}
-              className="group text-sm text-grey-dark flex items-center hover:text-red-800"
-            >
+          <div className="mb-8 flex flex-col">
+            <div className="flex items-center">
               <svg
                 className="text-grey w-3 h-3 mr-2 group-hover:fill-red-800"
                 xmlns="http://www.w3.org/2000/svg"
@@ -62,7 +64,7 @@ const HomePage = async ({ params }: { params: { asin: string } }) => {
                 <path d="M4 8V6a6 6 0 1 1 12 0v2h1a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2v-8c0-1.1.9-2 2-2h1zm5 6.73V17h2v-2.27a2 2 0 1 0-2 0zM7 6v2h6V6a3 3 0 0 0-6 0z" />
               </svg>
               ASIN: {product.asin}
-            </a>
+            </div>
             <div className="text-black font-bold text-xl mb-2">
               {product.title}
             </div>

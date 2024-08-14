@@ -21,7 +21,7 @@ export default function RootLayout({
         <div className="m-8">
           <h1 className="mb-16 mx-0 px-0 text-4xl font-bold">
             <Link className="hover:text-red-800" href="/">
-              Awesome Amazon Products
+              Productos de Amazon que necesitas
             </Link>
           </h1>
           {children}
