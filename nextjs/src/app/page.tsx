@@ -5,7 +5,7 @@ export const runtime = "edge";
 
 const HomePage = async () => {
   const res = await fetch(
-    `${process.env.PUBLIC_BASE_URL}/${
+    `${process.env.PUBLIC_BASE_URL}${
       process.env.PRODUCTS_URL
     }?timestamp=${new Date().getTime()}`
   );
