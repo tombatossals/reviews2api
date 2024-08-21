@@ -31,11 +31,11 @@ const HomePage = async ({ params }: { params: { asin: string } }) => {
   return (
     <div className="mx-12">
       <pre className="bg-yellow-100 p-4 mb-4">
-        <b>API</b>: {process.env.PUBLIC_BASE_URL}/
+        <b>API</b>: {process.env.PUBLIC_BASE_URL}
         {process.env.PRODUCT_URL.replace("{ASIN}", params.asin)}
       </pre>
       <pre className="bg-yellow-100 p-4 mb-4">
-        <b>URL de API privada</b>: {process.env.PUBLIC_BASE_URL}/
+        <b>URL de API privada</b>: {process.env.PUBLIC_BASE_URL}
         {process.env.PRODUCT_PRIVATE_URL.replace("{ASIN}", params.asin)}
         <br />
         <b>Token de autorización</b>: {process.env.PRODUCT_AUTH_TOKEN}
