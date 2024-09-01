@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "collect.js",
   "scripts": {
+    "upgrade": "npx ts-node upgrade.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -11,6 +12,7 @@
   "dependencies": {
     "dayjs": "^1.11.12",
     "npm-check-updates": "^16.14.20",
+    "openai": "^4.57.0",
     "puppeteer": "^22.14.0",
     "puppeteer-extra": "^3.3.6",
     "puppeteer-extra-plugin-anonymize-ua": "^2.4.6",

@@ -10,9 +10,6 @@ import {
   get_page,
 } from "./helpers";
 
-const url = process.env.IDEALISTA_URL;
-const orderby = process.env.IDEALISTA_ORDERBY;
-
 const get_title = async (page: any) => {
   const title = await page.evaluate(() => {
     return document.querySelector("#productTitle").innerHTML;
