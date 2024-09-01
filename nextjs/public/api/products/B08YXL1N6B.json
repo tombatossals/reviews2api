@@ -1549,7 +1549,8 @@
         0.014088257,
         0.008325411
       ],
-      "review_es": "Perfecto."
+      "review_es": "Perfecto.",
+      "title_es": "Muy bueno"
     },
     {
       "title": "Muy baja calidad",
@@ -3096,7 +3097,8 @@
         0.008610008,
         0.040101744
       ],
-      "review_es": "Se rompe con facilidad. Plasticuchi"
+      "review_es": "Se rompe con facilidad. Plasticuchi",
+      "title_es": "Muy baja calidad"
     },
     {
       "title": "Practico",
@@ -4643,7 +4645,8 @@
         -0.019445013,
         0.015375655
       ],
-      "review_es": "Practico"
+      "review_es": "Practico",
+      "title_es": "Practico"
     }
   ]
 }

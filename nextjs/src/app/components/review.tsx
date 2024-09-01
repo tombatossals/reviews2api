@@ -15,7 +15,7 @@ const Review = ({ review }: { review: ReviewType }) => {
       <div className="bg-white flex-1 rounded-2xl px-10 py-4 shadow-lg hover:shadow-2xl transition duration-500">
         <div className="mt-4">
           <h1 className="text-lg text-gray-700 font-semibold">
-            {review.title}
+            {review.title_es}
           </h1>
           <div className="flex mt-2">
             {Array(parseFloat(review.stars))
@@ -32,7 +32,9 @@ const Review = ({ review }: { review: ReviewType }) => {
                 </svg>
               ))}
           </div>
-          <p className="mt-4 text-md text-gray-600 flex-1">{review.review}</p>
+          <p className="mt-4 text-md text-gray-600 flex-1">
+            {review.review_es}
+          </p>
           <div className="flex justify-between items-center">
             <div className="mt-4 flex items-center space-x-4 py-6">
               <div className="text-sm font-semibold">

@@ -1549,7 +1549,8 @@
         0.006531111,
         0.01933083
       ],
-      "review_es": "Fue un regalo, y le encantó, lo recomiendo si es para hacer una gracia, es ideal."
+      "review_es": "Fue un regalo, y le encantó, lo recomiendo si es para hacer una gracia, es ideal.",
+      "title_es": "Es muy esponjoso, me gustó mucho."
     },
     {
       "title": "Muy conseguido",
@@ -3096,7 +3097,8 @@
         0.0074897506,
         0.022677623
       ],
-      "review_es": "La foto se ve un poco borrosa, pero el conjunto está muy bien conseguido. Muy gracioso cómo regalo para amigo invisible o similar."
+      "review_es": "La foto se ve un poco borrosa, pero el conjunto está muy bien conseguido. Muy gracioso cómo regalo para amigo invisible o similar.",
+      "title_es": "Muy conseguido"
     },
     {
       "title": "Muy gracioso",
@@ -4643,7 +4645,8 @@
         0.019099163,
         0.024196062
       ],
-      "review_es": "Fue para un regalo y le encantó."
+      "review_es": "Fue para un regalo y le encantó.",
+      "title_es": "Muy gracioso"
     },
     {
       "title": "No es un 5J pero está genial",
@@ -6190,7 +6193,8 @@
         0.028817449,
         0.0060559176
       ],
-      "review_es": "Muy logrado, lo que nos reímos cuando le quitó el papel de regalo jajaja"
+      "review_es": "Muy logrado, lo que nos reímos cuando le quitó el papel de regalo jajaja",
+      "title_es": "No es un 5J pero está genial."
     },
     {
       "title": "Jamon relleno",
@@ -7737,7 +7741,8 @@
         0.010971758,
         -0.0048479857
       ],
-      "review_es": "Mala calidad y en general, mal hecho"
+      "review_es": "Mala calidad y en general, mal hecho",
+      "title_es": "Jamon relleno"
     },
     {
       "title": "Parece más de lo que es",
@@ -9284,7 +9289,8 @@
         0.020196032,
         0.03187988
       ],
-      "review_es": "Lo compre para un regalo simpático y resultó ser muy pobre e insignificante, el producto tiene un alto precio para lo que es."
+      "review_es": "Lo compre para un regalo simpático y resultó ser muy pobre e insignificante, el producto tiene un alto precio para lo que es.",
+      "title_es": "Parece más de lo que es."
     },
     {
       "title": "El cojin vino en buen estado",
@@ -10831,7 +10837,8 @@
         0.047961313,
         -0.0013567443
       ],
-      "review_es": "Hice el pedido con opción de regalo y me ha llegado sin bolsa de regalo y sin mensaje."
+      "review_es": "Hice el pedido con opción de regalo y me ha llegado sin bolsa de regalo y sin mensaje.",
+      "title_es": "El cojin vino en buen estado."
     }
   ]
 }

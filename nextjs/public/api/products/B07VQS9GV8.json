@@ -1549,7 +1549,8 @@
         -0.03589874,
         -0.0092557715
       ],
-      "review_es": "¿El trabajo es un poco de risas en el baño? 🤭🤭🤭"
+      "review_es": "¿El trabajo es un poco de risas en el baño? 🤭🤭🤭",
+      "title_es": "Anima el baño."
     },
     {
       "title": "Bestes Geschenk ever!",
@@ -3096,7 +3097,8 @@
         -0.011750432,
         0.00048282114
       ],
-      "review_es": "Mi hermana se alegró mucho por este regalo de cumpleaños. ¡Finalmente el presidente ocupa un cargo que le corresponde!"
+      "review_es": "Mi hermana se alegró mucho por este regalo de cumpleaños. ¡Finalmente el presidente ocupa un cargo que le corresponde!",
+      "title_es": "¡Mejor regalo de todos los tiempos!"
     },
     {
       "title": "très intéressant",
@@ -4643,7 +4645,8 @@
         -0.04614396,
         0.02482849
       ],
-      "review_es": "Es tan interesante. Su valor artístico va más allá de su propia utilización. Puedes regalarlo a tus amigos. Jajajaja ¿Te da vergüenza usar este papel higiénico? Entrega rápida y buena calidad."
+      "review_es": "Es tan interesante. Su valor artístico va más allá de su propia utilización. Puedes regalarlo a tus amigos. Jajajaja ¿Te da vergüenza usar este papel higiénico? Entrega rápida y buena calidad.",
+      "title_es": "muy interesante"
     },
     {
       "title": "Keine ahnung",
@@ -6190,7 +6193,8 @@
         -0.00014914134,
         0.0077915546
       ],
-      "review_es": "Mi amiga le regaló eso a alguien. La entrega fue correcta."
+      "review_es": "Mi amiga le regaló eso a alguien. La entrega fue correcta.",
+      "title_es": "No tengo ni idea."
     },
     {
       "title": "Lustig",
@@ -7737,7 +7741,8 @@
         0.015332979,
         0.031124039
       ],
-      "review_es": "Es exactamente lo que se describió. Bueno, la figurita es difícil de reconocer como DeppenDonald, pero junto con el rollo de papel higiénico es autoexplicativo. Viene de China y por eso tarda al menos 3 semanas. No sé si también hay una versión con Ji Jinping..."
+      "review_es": "Es exactamente lo que se describió. Bueno, la figurita es difícil de reconocer como DeppenDonald, pero junto con el rollo de papel higiénico es autoexplicativo. Viene de China y por eso tarda al menos 3 semanas. No sé si también hay una versión con Ji Jinping...",
+      "title_es": "Lustig se traduce al castellano como \"divertido\" o \"gracioso\"."
     },
     {
       "title": "Deko",
@@ -9284,7 +9289,8 @@
         -0.016438153,
         0.000567465
       ],
-      "review_es": "Aún no utilizado, decoración divertida."
+      "review_es": "Aún no utilizado, decoración divertida.",
+      "title_es": "Deko"
     },
     {
       "title": "Lustiges Geschenk",
@@ -10831,7 +10837,8 @@
         0.0020936513,
         -0.025338864
       ],
-      "review_es": "Como se indica en la imagen, definitivamente es una idea de regalo divertida."
+      "review_es": "Como se indica en la imagen, definitivamente es una idea de regalo divertida.",
+      "title_es": "Regalo divertido"
     },
     {
       "title": "unterirdisch",
@@ -12378,7 +12385,8 @@
         0.013645804,
         -0.007923968
       ],
-      "review_es": "calidad más barata. el peine llegó completamente doblado. inservible. basura."
+      "review_es": "calidad más barata. el peine llegó completamente doblado. inservible. basura.",
+      "title_es": "subterráneo"
     },
     {
       "title": "So ergibt Trump wenigstens einen Sinn",
@@ -13925,7 +13933,8 @@
         -0.02201754,
         0.013680385
       ],
-      "review_es": "Artículo divertido"
+      "review_es": "Artículo divertido",
+      "title_es": "Así que Trump al menos tiene sentido."
     }
   ]
 }

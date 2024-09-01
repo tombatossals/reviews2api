@@ -46,21 +46,21 @@ async function translateJSON(codigoASIN: string): Promise<void> {
                 model: "gpt-4o-mini",
                 messages: [
                     { role: "system", content: "Eres un traductor. Si el texto que te paso no, está en castellano, traduce el texto al castellano. Si ya está en castellano, devuelve el texto sin modificarlo." },
-                    { role: "user", content: r.review }
+                    { role: "user", content: r.title }
                 ],
             });
 
             // Obtener la traducción
             const translatedContent = translationResponse.choices[0].message.content;
 
-            const embedding = await openai.embeddings.create({
+            /*const embedding = await openai.embeddings.create({
                 model: "text-embedding-3-small",
                 input: r.review,
                 encoding_format: "float",
             });
 
-            newJson.reviews[i].embeddings = embedding.data[0].embedding;
-            newJson.reviews[i].review_es = translatedContent;
+            newJson.reviews[i].embeddings = embedding.data[0].embedding;*/
+            newJson.reviews[i].title_es = translatedContent;
         }
 
         // Guardar el archivo traducido

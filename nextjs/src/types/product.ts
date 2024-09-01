@@ -1,10 +1,12 @@
 export interface Review {
     title: string;
+    title_es: string;
     stars: string;
     date: string;
     country: string;
     name: string;
     review: string;
+    review_es: string;
 }
 
 export interface Product {
